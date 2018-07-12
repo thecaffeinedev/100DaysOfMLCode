@@ -1,7 +1,7 @@
 # 100DaysOfMLCode
 Taking up the #100DaysOfMLCode Challange 
 
-#Warming Up ML Algorithm 
+# Warming Up ML Algorithm 
 
 <a href = "https://github.com/TheCaffeineDev/100DaysOfMLCode/tree/master/1.%20Linear%20Regression%20(Day-1)">Day 1 : Linear Regression</a>
 
