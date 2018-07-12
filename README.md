@@ -14,3 +14,5 @@ Taking up the #100DaysOfMLCode Challange
 <a href = "https://github.com/TheCaffeineDev/100DaysOfMLCode/tree/master/5.%20%20K-Nearest%20Neighbor">Day 5 : K-Nearest Neighbor</a>
 
 <a href = "https://github.com/TheCaffeineDev/100DaysOfMLCode/tree/master/6.%20Random%20Forest%20Algorithm%20(Day%20-6)">Day 6 : Random Forest Algorithm</a>
+
+<a href = "https://github.com/TheCaffeineDev/100DaysOfMLCode/tree/master/7.%20K-means%20Clustering%20(Day-7)">Day 7 : K-means Clustering</a>
