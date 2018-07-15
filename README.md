@@ -20,3 +20,5 @@ Taking up the #100DaysOfMLCode Challange
 * <a href = "https://github.com/TheCaffeineDev/100DaysOfMLCode/tree/master/8.%20Dimensionality%20Reduction%20Algorithm%20(Day%20-8)">Day 8 : Dimensionality Reduction Algorithm :PCA</a>
 
 * <a href = "https://github.com/TheCaffeineDev/100DaysOfMLCode/tree/master/9.%20Gradient%20Boosting%20Algorithm%20(Day-9)">Day 9 : Gradient Boosting Algorithm</a>
+
+* <a href = "https://github.com/TheCaffeineDev/100DaysOfMLCode/tree/master/10.%20Logistic%20Regression%20(Day-10)">Day 10 : Logistic Regression</a>
