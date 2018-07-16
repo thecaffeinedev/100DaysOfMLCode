@@ -22,3 +22,5 @@ Taking up the #100DaysOfMLCode Challange
 * <a href = "https://github.com/TheCaffeineDev/100DaysOfMLCode/tree/master/9.%20Gradient%20Boosting%20Algorithm%20(Day-9)">Day 9 : Gradient Boosting Algorithm</a>
 
 * <a href = "https://github.com/TheCaffeineDev/100DaysOfMLCode/tree/master/10.%20Logistic%20Regression%20(Day-10)">Day 10 : Logistic Regression</a>
+
+* <a href = "https://github.com/TheCaffeineDev/100DaysOfMLCode/tree/master/11.%20Neural%20Network%20From%20%20Scratch%20(Day-11)">Day 11 : Neural Network From Scratch</a>
