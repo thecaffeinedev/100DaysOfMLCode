@@ -24,3 +24,5 @@ Taking up the #100DaysOfMLCode Challange
 * <a href = "https://github.com/TheCaffeineDev/100DaysOfMLCode/tree/master/10.%20Logistic%20Regression%20(Day-10)">Day 10 : Logistic Regression</a>
 
 * <a href = "https://github.com/TheCaffeineDev/100DaysOfMLCode/tree/master/11.%20Neural%20Network%20From%20%20Scratch%20(Day-11)">Day 11 : Neural Network From Scratch</a>
+
+* <a href = "https://github.com/TheCaffeineDev/100DaysOfMLCode/tree/master/12.%20Backpropagation%20Algorithm%20Neural%20Network%20(Day-12)">Day 12 : Backpropagation Algorithm Implementation</a>
