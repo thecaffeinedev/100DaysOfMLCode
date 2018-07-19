@@ -28,3 +28,6 @@ Taking up the #100DaysOfMLCode Challange
 * <a href = "https://github.com/TheCaffeineDev/100DaysOfMLCode/tree/master/12.%20Backpropagation%20Algorithm%20Neural%20Network%20(Day-12)">Day 12 : Backpropagation Algorithm Implementation</a>
 
 * <a href = "https://github.com/TheCaffeineDev/100DaysOfMLCode/tree/master/13.%20NLP">Day 13 : Getting Started With NLP</a>
+
+* <a href = "https://github.com/TheCaffeineDev/100DaysOfMLCode/tree/master/14.%20NlP%20-Part%202">Day 14 : Getting Started With NLP :Part 2</a>
+
