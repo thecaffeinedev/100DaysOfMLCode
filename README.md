@@ -36,3 +36,5 @@ Taking up the #100DaysOfMLCode Challange
 * <a href = "https://github.com/TheCaffeineDev/100DaysOfMLCode/tree/master/16.%20NLP%20-Part%204%20(Sentiment%20Analysis)">Day 16 :Sentiment Analysis Yelp Dataset (NlP :Part 4 ) </a>
 
 * <a href = "https://github.com/TheCaffeineDev/100DaysOfMLCode/tree/master/17.%20NLP%20-Part%205%20(Sentiment%20Analysis)">Day 16 :Sentiment Analysis IMDB Dataset (NlP :Part 5 ) </a>
+
+* <a href = "https://github.com/TheCaffeineDev/100DaysOfMLCode/tree/master/18.%20NLP%20-Part%206%20(Naive%20Bayes%20Classification)">Day 16 :Naive Bayes Classifier:Email Spam Or Not Spam (NlP :Part 6 ) </a>
