@@ -31,10 +31,12 @@ Taking up the #100DaysOfMLCode Challange
 
 * <a href = "https://github.com/TheCaffeineDev/100DaysOfMLCode/tree/master/14.%20NlP%20-Part%202">Day 14 : Getting Started With NLP :Part 2</a>
 
-* <a href = "https://github.com/TheCaffeineDev/100DaysOfMLCode/tree/master/15.%20NLP-%20Part%203%20(Sentiment%20Analysis)">Day 15 :Sentiment Analysis Using NLTK (NlP :Part 3 ) </a>
+* <a href = "https://github.com/TheCaffeineDev/100DaysOfMLCode/tree/master/15.%20NLP-%20Part%203%20(Sentiment%20Analysis)">Day 15 :Sentiment Analysis Using NLTK (NLP :Part 3 ) </a>
 
-* <a href = "https://github.com/TheCaffeineDev/100DaysOfMLCode/tree/master/16.%20NLP%20-Part%204%20(Sentiment%20Analysis)">Day 16 :Sentiment Analysis Yelp Dataset (NlP :Part 4 ) </a>
+* <a href = "https://github.com/TheCaffeineDev/100DaysOfMLCode/tree/master/16.%20NLP%20-Part%204%20(Sentiment%20Analysis)">Day 16 :Sentiment Analysis Yelp Dataset (NLP :Part 4 ) </a>
 
-* <a href = "https://github.com/TheCaffeineDev/100DaysOfMLCode/tree/master/17.%20NLP%20-Part%205%20(Sentiment%20Analysis)">Day 17 :Sentiment Analysis IMDB Dataset (NlP :Part 5 ) </a>
+* <a href = "https://github.com/TheCaffeineDev/100DaysOfMLCode/tree/master/17.%20NLP%20-Part%205%20(Sentiment%20Analysis)">Day 17 :Sentiment Analysis IMDB Dataset (NLP :Part 5 ) </a>
 
-* <a href = "https://github.com/TheCaffeineDev/100DaysOfMLCode/tree/master/18.%20NLP%20-Part%206%20(Naive%20Bayes%20Classification)">Day 18 :Naive Bayes Classifier:Email Spam Or Not Spam (NlP :Part 6 ) </a>
+* <a href = "https://github.com/TheCaffeineDev/100DaysOfMLCode/tree/master/18.%20NLP%20-Part%206%20(Naive%20Bayes%20Classification)">Day 18 :Naive Bayes Classifier:Email Spam Or Not Spam (NLP :Part 6 ) </a>
+
+* <a href = "https://github.com/TheCaffeineDev/100DaysOfMLCode/tree/master/19.%20NLP%20-Part%207%20(Text%20Clasification-TextBlob)">Day 19 :Text Classification-TextBlob (NLP :Part 7 ) </a>
