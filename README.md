@@ -46,3 +46,6 @@ ___
 # Hello Tensorflow 
 
 * <a href = "https://github.com/TheCaffeineDev/100DaysOfMLCode/tree/master/20.%20Hello%20Tensorflow%20(Tensorflow%20Basics)">Day 20 :Getting Started With Tensorflow (Basics) </a>
+
+* <a href = "https://github.com/TheCaffeineDev/100DaysOfMLCode/tree/master/21.%20Tensorflow-Linear%20(Part-2)">Day 20 :Tensorflow Liner Part:2 </a>
+
