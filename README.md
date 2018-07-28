@@ -50,3 +50,5 @@ ___
 * <a href = "https://github.com/TheCaffeineDev/100DaysOfMLCode/tree/master/21.%20Tensorflow-Linear%20(Part-2)">Day 21 :Tensorflow Liner Part:2 </a>
 
 * <a href = "https://github.com/TheCaffeineDev/100DaysOfMLCode/tree/master/22.%20Tensorflow%20Linear%20(Part-3)">Day 22 :Tensorflow Liner Part:3 </a>
+
+* <a href = "https://github.com/TheCaffeineDev/100DaysOfMLCode/tree/master/23.%20Tensorflow%20Basics-Activation%20Functions%20(Day-23)">Day 23 :Tensorflow Basics-Activation Functions </a>
