@@ -5,3 +5,5 @@ They’d like to offer pricing suggestions to sellers, but this is tough because
 or any bundle of things, on Mercari’s marketplace.
 
 The data set can be downloaded from <a href="https://www.kaggle.com/saitosean/mercari/discussion">Kaggle</a>
+
+Check the Jupyter Notebook for detailed implementation .
