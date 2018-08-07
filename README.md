@@ -54,3 +54,24 @@ ___
 * <a href = "https://github.com/TheCaffeineDev/100DaysOfMLCode/tree/master/23.%20Tensorflow%20Basics-Activation%20Functions%20(Day-23)">Day 23 :Tensorflow Basics-Activation Functions </a>
 
 * <a href = "https://github.com/TheCaffeineDev/100DaysOfMLCode/tree/master/24.%20Linear%20Regression%20In%20Tensorflow%20Way">Day 24 :Linear Regression In Tensorflow Way </a>
+
+* <a href = "https://github.com/TheCaffeineDev/100DaysOfMLCode/tree/master/25.%20SVM%20In%20Tensorflow%20Way">Day 25 :SVM In Tensorflow Way </a>
+
+* [Day 26:Nearest Neighbor Method Using Tensorflow ](https://github.com/TheCaffeineDev/100DaysOfMLCode/tree/master/26.%20Nearest%20Neighbor%20Methods)
+
+* [Day 27:Neural Networks In Tensorflow Way ](https://github.com/TheCaffeineDev/100DaysOfMLCode/tree/master/27.%20Neural%20Networks%20In%20Tensorflow%20Way)
+
+* [Day 28:NLP In Tensorflow Way (Part-1) ](https://github.com/TheCaffeineDev/100DaysOfMLCode/tree/master/28.%20NLP%20In%20Tensorflow%20Way%20(Part-1))
+
+* [Day 29:NLP In Tensorflow Way (Part-2) ](https://github.com/TheCaffeineDev/100DaysOfMLCode/tree/master/29.%20NLP%20In%20Tensorflow%20Way%20(Part-2))
+
+* [Day 30:Santander Value Prediction (Kaggle Competition)](https://github.com/TheCaffeineDev/100DaysOfMLCode/tree/master/30.%20Santander%20Value%20Prediction%20(Kaggle%20Competition))
+
+* [Day 31:RNN Implementation Using Numpy](https://github.com/TheCaffeineDev/100DaysOfMLCode/tree/master/31.%20RNN%20Implementation%20Using%20Numpy)
+
+* [Day 32:LSTM Implementation](https://github.com/TheCaffeineDev/100DaysOfMLCode/tree/master/32.%20LSTM%20Implementation)
+
+
+* [Day 33:RNN-LSTM Implementation using Tensorflow](https://github.com/TheCaffeineDev/100DaysOfMLCode/tree/master/33.%20RNN-LSTM%20Implementation%20using%20Tensorflow)
+
+* [Day 34:Retail Price Recommendation (Kaggle)](https://github.com/TheCaffeineDev/100DaysOfMLCode/tree/master/34.%20Retail%20Price%20Recommendation%20(Kaggle))
