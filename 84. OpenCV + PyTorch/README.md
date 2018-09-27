@@ -1,6 +1,6 @@
-[//]: # (Image References)
 
-[image1]: ./images/key_pts_example.png "Facial Keypoint Detection"
+
+
 
 # Facial Keypoint Detection
 
