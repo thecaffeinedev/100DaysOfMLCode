@@ -1,0 +1,38 @@
+def user_reommendations(person):
+
+	# Gets recommendations for a person by using a weighted average of every other user's rankings
+	totals = {}
+	simSums = {}
+	rankings_list =[]
+	for other in dataset:
+		# don't compare me to myself
+		if other == person:
+			continue
+		sim = pearson_correlation(person,other)
+
+		# ignore scores of zero or lower
+		if sim &lt;=0: 
+			continue
+		for item in dataset[other]:
+
+			# only score movies i haven't seen yet
+			if item not in dataset[person] or dataset[person][item] == 0:
+
+			# Similrity * score
+				totals.setdefault(item,0)
+				totals[item] += dataset[other][item]* sim
+				# sum of similarities
+				simSums.setdefault(item,0)
+				simSums[item]+= sim
+
+		# Create the normalized list
+
+	rankings = [(total/simSums[item],item) for item,total in totals.items()]
+	rankings.sort()
+	rankings.reverse()
+	# returns the recommended items
+	recommendataions_list = [recommend_item for score,recommend_item in rankings]
+	return recommendataions_list
+
+print "Recommendations for Dhananjaya Panda"
+print user_reommendations('Dhananjaya Panda')
