@@ -1,0 +1,4 @@
+Model and feature files will be created here: 
+300features_40minwords_10context	
+imdb_indices.pickle
+imdb_avgfeatures.pickle
