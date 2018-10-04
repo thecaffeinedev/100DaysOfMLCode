@@ -1,0 +1,466 @@
+
+-- topic: 0
+dreamy: 0.126329
+brooding: 0.082826
+dark: 0.072133
+dramatic: 0.072067
+melancholy: 0.061971
+lite: 0.053337
+yearning: 0.042578
+strength: 0.042445
+deep: 0.032150
+positive: 0.031486
+relaxing: 0.028630
+soulful: 0.026372
+strong: 0.024778
+glory: 0.024579
+romantic: 0.023317
+stable: 0.018468
+strumming: 0.016210
+beat: 0.016011
+happy: 0.015944
+loud: 0.015679
+
+-- topic: 1
+light: 0.146396
+gentle: 0.125401
+delicate: 0.093163
+tranquil: 0.093091
+tender: 0.071457
+touching: 0.069322
+sincere: 0.068752
+melancholy: 0.045694
+romantic: 0.030037
+lyrical: 0.029254
+forlorn: 0.027119
+wistful: 0.026692
+lite: 0.017014
+breezy: 0.015235
+hopeful: 0.014950
+bittersweet: 0.014167
+easy: 0.014096
+smokey: 0.013882
+pastoral: 0.011391
+serene: 0.011391
+
+-- topic: 2
+dramatic: 0.164805
+romantic: 0.097488
+emotion: 0.050666
+lyrical: 0.047167
+ominous: 0.036836
+eerie: 0.036669
+creepy: 0.035836
+strong: 0.033003
+thrilling: 0.028171
+emotional: 0.028004
+sophisticated: 0.025838
+lush: 0.025838
+soft: 0.024005
+stable: 0.018673
+dark: 0.016840
+cerebral: 0.016674
+questioning: 0.016674
+quiet: 0.015674
+reverent: 0.015674
+sad: 0.015341
+
+-- topic: 3
+expressive: 0.076154
+emoton: 0.075794
+meandering: 0.045663
+sensitive: 0.044943
+exploring: 0.044789
+bittersweet: 0.039287
+jaded: 0.037744
+bitter: 0.037693
+determined: 0.037539
+friendly: 0.035996
+energetic: 0.035688
+emo: 0.034865
+casual: 0.034762
+soulful: 0.034454
+agreeable: 0.032808
+soft: 0.027152
+warm: 0.024684
+ballad: 0.024633
+sweet: 0.024324
+stable: 0.019902
+
+-- topic: 4
+groove: 0.128637
+pop: 0.075701
+dark: 0.065844
+jaunty: 0.059637
+casual: 0.057569
+funky: 0.053188
+upbeat: 0.038828
+energetic: 0.035907
+rhythm: 0.032987
+yearning: 0.031648
+lively: 0.029458
+fun: 0.029458
+emo: 0.027389
+rollicking: 0.022521
+ramshackle: 0.022400
+soulful: 0.019966
+romantic: 0.019114
+arousing: 0.012056
+energizing: 0.010839
+attitude: 0.009987
+
+-- topic: 5
+loud: 0.111213
+energetic: 0.091472
+dark: 0.071411
+brooding: 0.051777
+emo: 0.045339
+heavy: 0.043902
+excitement: 0.042199
+anxious: 0.034430
+hurt: 0.034377
+frustrated: 0.034111
+positive: 0.029429
+pop: 0.028790
+happy: 0.028205
+hard: 0.025970
+glory: 0.024427
+strength: 0.023948
+melancholy: 0.021926
+party: 0.019957
+power: 0.018787
+fun: 0.013679
+
+-- topic: 6
+energy: 0.151280
+euphoric: 0.151034
+power: 0.149680
+dark: 0.053304
+beat: 0.051827
+romantic: 0.041857
+energetic: 0.035580
+dreamy: 0.031272
+abstract: 0.022533
+positive: 0.020933
+smokey: 0.018594
+brooding: 0.016994
+sensual: 0.016256
+intimate: 0.014163
+deep: 0.013794
+yearning: 0.013055
+relaxing: 0.012809
+strength: 0.010471
+pop: 0.010347
+heartfelt: 0.009117
+
+-- topic: 7
+dark: 0.106664
+sensual: 0.089091
+soft: 0.086717
+intimate: 0.084138
+caution: 0.060594
+grim: 0.059984
+suspicion: 0.059848
+edgy: 0.038679
+sexy: 0.038408
+beat: 0.028841
+intense: 0.027755
+determination: 0.024905
+emo: 0.024702
+energetic: 0.021716
+pop: 0.016967
+defiant: 0.014253
+arrogant: 0.013914
+attitude: 0.013235
+groove: 0.012760
+yearning: 0.012692
+
+-- topic: 8
+brooding: 0.158082
+loud: 0.096677
+heavy: 0.095092
+emo: 0.084198
+enigmatic: 0.070530
+mysterious: 0.063201
+melancholy: 0.052505
+dark: 0.044185
+power: 0.025962
+sentimental: 0.023585
+energetic: 0.022595
+triumph: 0.020614
+mannered: 0.020416
+refined: 0.019821
+dreamy: 0.018237
+sensitive: 0.018237
+meandering: 0.018039
+exploring: 0.018039
+cool: 0.016058
+lite: 0.013285
+
+-- topic: 9
+dark: 0.120271
+brooding: 0.106319
+intriguing: 0.084396
+evocative: 0.082402
+dreamy: 0.076091
+loud: 0.064465
+energetic: 0.061143
+strength: 0.061143
+glory: 0.057157
+positive: 0.046195
+alienated: 0.034237
+soulful: 0.031911
+melancholy: 0.030250
+bittersweet: 0.016631
+emo: 0.014306
+earthy: 0.012977
+gritty: 0.012313
+sad: 0.009655
+smokey: 0.007994
+tender: 0.007994
+
+-- topic: 10
+beat: 0.207083
+groove: 0.076147
+deep: 0.063892
+relaxing: 0.063813
+dark: 0.058911
+pop: 0.049343
+heavy: 0.047525
+arousing: 0.047525
+energizing: 0.047050
+dreamy: 0.044599
+hard: 0.044283
+energetic: 0.043492
+body: 0.039302
+abstract: 0.028707
+positive: 0.021670
+upbeat: 0.018823
+loop: 0.017242
+cool: 0.015819
+rhythm: 0.009256
+fiery: 0.008624
+
+-- topic: 11
+positive: 0.077469
+loud: 0.071146
+groovy: 0.070243
+strength: 0.066179
+glory: 0.063469
+dreamy: 0.045404
+soulful: 0.041113
+happy: 0.039758
+euphoric: 0.039307
+energy: 0.038629
+power: 0.038629
+strumming: 0.032306
+energetic: 0.028693
+precious: 0.023274
+lite: 0.023048
+beat: 0.016048
+light: 0.015370
+abstract: 0.011532
+sexy: 0.010854
+savvy: 0.010854
+
+-- topic: 12
+lyrical: 0.200264
+romantic: 0.183010
+introspective: 0.152135
+quiet: 0.149865
+soft: 0.065867
+mannered: 0.061780
+refined: 0.061326
+cheerful: 0.027727
+lighthearted: 0.018646
+playful: 0.018192
+peaceful: 0.009111
+healing: 0.009111
+reverent: 0.009111
+somber: 0.006387
+solem: 0.006387
+spiritual: 0.006387
+glossy: 0.005025
+groove: 0.002301
+melodrama: 0.001392
+mysterious: 0.000484
+
+-- topic: 13
+lyrical: 0.116315
+romantic: 0.115073
+emotion: 0.067483
+soulful: 0.063344
+smokey: 0.053412
+dramatic: 0.050102
+pastoral: 0.042239
+serene: 0.041825
+sad: 0.040583
+energetic: 0.034376
+sparkling: 0.033134
+tender: 0.032721
+intimate: 0.028996
+cheerful: 0.025685
+nostalgic: 0.023616
+focused: 0.021961
+carefree: 0.021133
+healing: 0.019892
+reverent: 0.019478
+peaceful: 0.019064
+
+-- topic: 14
+soft: 0.079029
+energetic: 0.070985
+yearning: 0.068060
+emo: 0.062209
+light: 0.061478
+soulful: 0.059284
+sensual: 0.043927
+groove: 0.036614
+lite: 0.035151
+casual: 0.029301
+romantic: 0.028570
+pop: 0.024913
+glossy: 0.024182
+dramatic: 0.022719
+cheerful: 0.020525
+carefree: 0.020525
+friendly: 0.019794
+exuberant: 0.019794
+festive: 0.019794
+strength: 0.019063
+
+-- topic: 15
+dark: 0.089673
+soft: 0.067735
+sensual: 0.067108
+intimate: 0.067108
+beat: 0.054573
+relaxing: 0.054573
+deep: 0.046424
+dreamy: 0.045798
+romantic: 0.042664
+brooding: 0.042037
+rowdy: 0.040156
+wild: 0.037023
+playful: 0.032635
+sprightly: 0.031381
+heartfelt: 0.025740
+lively: 0.021980
+rhythm: 0.018846
+savvy: 0.017592
+enigmatic: 0.016965
+mysterious: 0.016965
+
+-- topic: 16
+dark: 0.182955
+edgy: 0.140399
+sexy: 0.135798
+driving: 0.110494
+groove: 0.090941
+party: 0.052985
+pop: 0.047234
+fun: 0.041483
+cheerful: 0.012729
+lyrical: 0.011579
+groovy: 0.011579
+passionate: 0.011579
+suspicion: 0.011579
+bittersweet: 0.010428
+savvy: 0.010428
+carefree: 0.010428
+grim: 0.010428
+gentle: 0.009278
+heartfelt: 0.009278
+sparkling: 0.008128
+
+-- topic: 17
+friendly: 0.085833
+positive: 0.005377
+energetic: 0.005377
+abstract: 0.005377
+beat: 0.005377
+heavy: 0.005377
+body: 0.005377
+dark: 0.005377
+pop: 0.005377
+deep: 0.005377
+dreamy: 0.005377
+relaxing: 0.005377
+soft: 0.005377
+sensual: 0.005377
+intimate: 0.005377
+enigmatic: 0.005377
+brooding: 0.005377
+mysterious: 0.005377
+light: 0.005377
+soulful: 0.005377
+
+-- doc: 0
+topic 4: 0.660291
+topic 14: 0.198801
+topic 6: 0.040656
+topic 11: 0.038806
+topic 7: 0.014760
+
+-- doc: 1
+topic 4: 0.524866
+topic 7: 0.365501
+topic 5: 0.040448
+topic 10: 0.030330
+topic 3: 0.011990
+
+-- doc: 2
+topic 7: 0.462316
+topic 15: 0.123583
+topic 10: 0.114705
+topic 14: 0.094217
+topic 4: 0.085339
+
+-- doc: 3
+topic 10: 0.591566
+topic 0: 0.348952
+topic 8: 0.035270
+topic 15: 0.006352
+topic 17: 0.003411
+
+-- doc: 4
+topic 5: 0.602953
+topic 15: 0.312806
+topic 4: 0.032528
+topic 10: 0.020685
+topic 8: 0.005882
+
+-- doc: 5
+topic 5: 0.937543
+topic 0: 0.022128
+topic 11: 0.015542
+topic 9: 0.011950
+topic 3: 0.002371
+
+-- doc: 6
+topic 15: 0.841447
+topic 0: 0.116429
+topic 10: 0.013090
+topic 14: 0.011449
+topic 5: 0.003248
+
+-- doc: 7
+topic 3: 0.381590
+topic 0: 0.254034
+topic 16: 0.116107
+topic 4: 0.103663
+topic 9: 0.062181
+
+-- doc: 8
+topic 7: 0.651128
+topic 6: 0.239361
+topic 15: 0.057418
+topic 8: 0.010495
+topic 5: 0.007622
+
+-- doc: 9
+topic 5: 0.497040
+topic 6: 0.197916
+topic 8: 0.158707
+topic 7: 0.067641
+topic 10: 0.017049

@@ -1,0 +1,3593 @@
+corpus=477, words=172, K=10, alpha=0.500000, beta=0.500000
+GibbsLDA initial prob=85.469207
+-1 p=85.378405
+-2 p=84.840963
+-3 p=81.048943
+-4 p=70.548392
+-5 p=60.800664
+-6 p=54.508869
+-7 p=50.672763
+-8 p=48.357496
+-9 p=47.116253
+-10 p=46.383947
+-11 p=45.903964
+-12 p=45.555668
+-13 p=45.286766
+-14 p=45.074791
+-15 p=44.924861
+-16 p=44.801702
+-17 p=44.699120
+-18 p=44.606318
+-19 p=44.529025
+-20 p=44.453401
+-21 p=44.398136
+-22 p=44.345523
+-23 p=44.298658
+-24 p=44.262825
+-25 p=44.225553
+-26 p=44.187030
+-27 p=44.156669
+-28 p=44.119018
+-29 p=44.082735
+-30 p=44.048982
+
+-- topic: 0
+dark: 0.113457
+beat: 0.099081
+caution: 0.075117
+suspicion: 0.075074
+grim: 0.075074
+sexy: 0.059256
+cool: 0.059198
+edgy: 0.058592
+loop: 0.058506
+arrogant: 0.046538
+defiant: 0.046538
+attitude: 0.046524
+abstract: 0.028211
+positive: 0.022285
+energetic: 0.019834
+intimate: 0.012912
+rhythm: 0.012307
+hard: 0.012004
+sensual: 0.009870
+soft: 0.007246
+
+-- topic: 1
+loud: 0.120727
+strength: 0.116647
+positive: 0.097734
+glory: 0.095724
+meandering: 0.060461
+sensitive: 0.060331
+happy: 0.060250
+exploring: 0.060039
+groovy: 0.055497
+strumming: 0.053738
+soulful: 0.051296
+energetic: 0.016134
+stirring: 0.012366
+idealistic: 0.012245
+heartfelt: 0.011250
+warm: 0.010818
+stable: 0.010305
+strong: 0.010185
+melancholy: 0.009341
+romantic: 0.008235
+
+-- topic: 2
+dreamy: 0.189782
+beat: 0.134336
+dark: 0.107741
+deep: 0.105568
+relaxing: 0.104164
+brooding: 0.098882
+soft: 0.025483
+lite: 0.022792
+sensual: 0.018613
+positive: 0.016005
+mysterious: 0.014869
+abstract: 0.014618
+enigmatic: 0.013949
+intimate: 0.013247
+energetic: 0.012328
+light: 0.010322
+soulful: 0.010071
+melancholy: 0.008149
+quiet: 0.005876
+introspective: 0.005625
+
+-- topic: 3
+romantic: 0.096210
+yearning: 0.068945
+casual: 0.068888
+emo: 0.063835
+heartfelt: 0.059706
+strength: 0.058669
+energetic: 0.056953
+agreeable: 0.056010
+friendly: 0.055765
+soulful: 0.034666
+smokey: 0.032403
+dramatic: 0.032365
+emoton: 0.032271
+expressive: 0.032139
+light: 0.026219
+pop: 0.023711
+easy: 0.022919
+soft: 0.019449
+cheerful: 0.015490
+carefree: 0.013849
+
+-- topic: 4
+energetic: 0.252820
+emo: 0.201289
+yearning: 0.168926
+brooding: 0.072461
+dreamy: 0.072215
+dark: 0.057599
+bittersweet: 0.039127
+melancholy: 0.023641
+strumming: 0.017523
+pop: 0.012303
+heavy: 0.010186
+soulful: 0.009185
+groovy: 0.008388
+twangy: 0.007663
+jaded: 0.004676
+lyrical: 0.004386
+happy: 0.004183
+determined: 0.003995
+bitter: 0.003835
+sensitive: 0.002298
+
+-- topic: 5
+power: 0.144693
+energy: 0.141305
+euphoric: 0.141249
+groove: 0.090984
+pop: 0.090443
+upbeat: 0.052633
+arousing: 0.030958
+energizing: 0.030666
+energetic: 0.026792
+dark: 0.024223
+edgy: 0.023223
+beat: 0.022612
+sexy: 0.022557
+body: 0.011698
+positive: 0.011351
+heavy: 0.008644
+joyous: 0.008185
+jubilant: 0.007755
+intense: 0.007408
+determination: 0.007061
+
+-- topic: 6
+romantic: 0.124344
+melancholy: 0.086685
+tender: 0.074079
+smokey: 0.072095
+forlorn: 0.051793
+wistful: 0.051633
+soulful: 0.047170
+sad: 0.039507
+emotion: 0.035443
+lyrical: 0.035028
+dramatic: 0.031188
+touching: 0.029780
+sincere: 0.028996
+lite: 0.023349
+bittersweet: 0.018918
+mysterious: 0.015766
+enigmatic: 0.013974
+gentle: 0.012006
+dark: 0.008727
+nostalgic: 0.007703
+
+-- topic: 7
+soft: 0.216937
+sensual: 0.176103
+intimate: 0.151818
+soulful: 0.070363
+groove: 0.060669
+light: 0.054381
+funky: 0.027854
+jaunty: 0.025725
+glossy: 0.024987
+casual: 0.020360
+lite: 0.018146
+groovy: 0.016613
+savvy: 0.016344
+dark: 0.007941
+sparkling: 0.006564
+cool: 0.006082
+romantic: 0.005997
+lyrical: 0.005542
+smokey: 0.005528
+beat: 0.005471
+
+-- topic: 8
+dark: 0.147951
+pop: 0.064854
+heavy: 0.056530
+rhythm: 0.052426
+loud: 0.052292
+determination: 0.050224
+intense: 0.049907
+brooding: 0.045936
+emo: 0.038863
+romantic: 0.036143
+energetic: 0.035993
+lively: 0.033591
+frustrated: 0.019961
+anxious: 0.019944
+hurt: 0.019844
+fiery: 0.015123
+passionate: 0.014789
+bitter: 0.013888
+determined: 0.013305
+jaded: 0.013004
+
+-- topic: 9
+dramatic: 0.177609
+expressive: 0.156531
+emoton: 0.156409
+strong: 0.046774
+stable: 0.046556
+warm: 0.045999
+romantic: 0.026851
+bittersweet: 0.020827
+ballad: 0.019888
+sweet: 0.019848
+light: 0.019685
+sincere: 0.016094
+lyrical: 0.015469
+touching: 0.015428
+gentle: 0.014748
+emotion: 0.012967
+soulful: 0.012735
+tender: 0.011661
+determined: 0.010247
+bitter: 0.009948
+
+-- doc: 0
+topic 8: 0.487867
+topic 5: 0.356941
+topic 2: 0.076467
+topic 0: 0.048251
+topic 6: 0.013262
+
+-- doc: 1
+topic 2: 0.377248
+topic 5: 0.265442
+topic 4: 0.103597
+topic 9: 0.080141
+topic 8: 0.066849
+
+-- doc: 2
+topic 3: 0.444403
+topic 9: 0.220511
+topic 1: 0.196469
+topic 4: 0.110068
+topic 7: 0.013148
+
+-- doc: 3
+topic 7: 0.353911
+topic 2: 0.166028
+topic 6: 0.144555
+topic 9: 0.081672
+topic 4: 0.077837
+
+-- doc: 4
+topic 8: 0.324924
+topic 5: 0.242857
+topic 2: 0.133435
+topic 6: 0.129787
+topic 7: 0.129179
+
+-- doc: 5
+topic 6: 0.277063
+topic 4: 0.249561
+topic 2: 0.195143
+topic 3: 0.092159
+topic 9: 0.070509
+
+-- doc: 6
+topic 7: 0.455574
+topic 0: 0.148785
+topic 2: 0.105197
+topic 6: 0.091785
+topic 3: 0.072506
+
+-- doc: 7
+topic 0: 0.983320
+topic 8: 0.010985
+topic 4: 0.002034
+topic 1: 0.001221
+topic 2: 0.000407
+
+-- doc: 8
+topic 5: 0.392301
+topic 6: 0.233131
+topic 4: 0.117215
+topic 9: 0.076557
+topic 3: 0.073097
+
+-- doc: 9
+topic 2: 0.368403
+topic 4: 0.201042
+topic 0: 0.123264
+topic 8: 0.104514
+topic 9: 0.099653
+
+-- doc: 10
+topic 5: 0.443262
+topic 1: 0.210796
+topic 4: 0.130418
+topic 0: 0.084712
+topic 8: 0.084712
+
+-- doc: 11
+topic 5: 0.364711
+topic 6: 0.338221
+topic 4: 0.161306
+topic 1: 0.088458
+topic 7: 0.031693
+
+-- doc: 12
+topic 0: 0.686184
+topic 8: 0.203454
+topic 5: 0.082982
+topic 7: 0.020640
+topic 3: 0.004634
+
+-- doc: 13
+topic 5: 0.519425
+topic 8: 0.283994
+topic 0: 0.169775
+topic 7: 0.020591
+topic 1: 0.002720
+
+-- doc: 14
+topic 3: 0.225784
+topic 5: 0.190314
+topic 1: 0.187585
+topic 2: 0.133015
+topic 4: 0.098909
+
+-- doc: 15
+topic 9: 0.412873
+topic 6: 0.337004
+topic 4: 0.131424
+topic 1: 0.114293
+topic 2: 0.001713
+
+-- doc: 16
+topic 2: 0.622541
+topic 5: 0.178471
+topic 0: 0.154862
+topic 1: 0.029511
+topic 7: 0.008713
+
+-- doc: 17
+topic 9: 0.707217
+topic 6: 0.123291
+topic 2: 0.075724
+topic 4: 0.064790
+topic 3: 0.017223
+
+-- doc: 18
+topic 5: 0.432596
+topic 0: 0.265692
+topic 8: 0.213623
+topic 7: 0.083809
+topic 3: 0.001783
+
+-- doc: 19
+topic 0: 0.532314
+topic 2: 0.341048
+topic 1: 0.070306
+topic 8: 0.037118
+topic 6: 0.013537
+
+-- doc: 20
+topic 8: 0.401967
+topic 4: 0.148915
+topic 1: 0.140773
+topic 7: 0.103460
+topic 3: 0.097354
+
+-- doc: 21
+topic 2: 0.303118
+topic 6: 0.200581
+topic 9: 0.191068
+topic 7: 0.133457
+topic 3: 0.128171
+
+-- doc: 22
+topic 6: 0.470297
+topic 5: 0.293602
+topic 0: 0.093298
+topic 7: 0.079589
+topic 2: 0.047601
+
+-- doc: 23
+topic 8: 0.534273
+topic 7: 0.264425
+topic 6: 0.090022
+topic 1: 0.082213
+topic 2: 0.014534
+
+-- doc: 24
+topic 0: 0.474288
+topic 7: 0.322794
+topic 2: 0.183808
+topic 8: 0.016331
+topic 1: 0.001042
+
+-- doc: 25
+topic 3: 0.569307
+topic 7: 0.206271
+topic 8: 0.098020
+topic 2: 0.055116
+topic 4: 0.035974
+
+-- doc: 26
+topic 5: 0.464912
+topic 8: 0.268834
+topic 0: 0.108875
+topic 7: 0.072755
+topic 1: 0.052116
+
+-- doc: 27
+topic 9: 0.756189
+topic 7: 0.132124
+topic 8: 0.052101
+topic 3: 0.041739
+topic 6: 0.012378
+
+-- doc: 28
+topic 3: 0.723709
+topic 7: 0.247653
+topic 5: 0.010094
+topic 1: 0.008685
+topic 9: 0.004460
+
+-- doc: 29
+topic 8: 0.212668
+topic 7: 0.209312
+topic 1: 0.173238
+topic 9: 0.173238
+topic 2: 0.122903
+
+-- doc: 30
+topic 1: 0.570383
+topic 4: 0.334146
+topic 8: 0.043554
+topic 9: 0.025436
+topic 3: 0.022648
+
+-- doc: 31
+topic 7: 0.744730
+topic 9: 0.109533
+topic 4: 0.077452
+topic 3: 0.062786
+topic 1: 0.002291
+
+-- doc: 32
+topic 5: 0.285413
+topic 7: 0.229764
+topic 4: 0.224705
+topic 8: 0.130270
+topic 1: 0.122681
+
+-- doc: 33
+topic 5: 0.294544
+topic 4: 0.274936
+topic 3: 0.226343
+topic 1: 0.084825
+topic 7: 0.071185
+
+-- doc: 34
+topic 8: 0.844453
+topic 1: 0.100825
+topic 0: 0.039355
+topic 5: 0.007871
+topic 2: 0.005622
+
+-- doc: 35
+topic 6: 0.447165
+topic 5: 0.284794
+topic 7: 0.108677
+topic 0: 0.106100
+topic 2: 0.029639
+
+-- doc: 36
+topic 9: 0.742615
+topic 4: 0.135941
+topic 1: 0.092724
+topic 3: 0.024891
+topic 8: 0.002462
+
+-- doc: 37
+topic 1: 0.662997
+topic 9: 0.257519
+topic 6: 0.049678
+topic 4: 0.025510
+topic 2: 0.002954
+
+-- doc: 38
+topic 5: 0.303738
+topic 6: 0.208204
+topic 0: 0.128245
+topic 4: 0.127207
+topic 3: 0.076324
+
+-- doc: 39
+topic 8: 0.509231
+topic 5: 0.368718
+topic 1: 0.117436
+topic 4: 0.001538
+topic 0: 0.000513
+
+-- doc: 40
+topic 5: 0.453338
+topic 4: 0.438263
+topic 7: 0.043431
+topic 1: 0.029074
+topic 2: 0.022613
+
+-- doc: 41
+topic 8: 0.426690
+topic 2: 0.325888
+topic 4: 0.229668
+topic 1: 0.014318
+topic 0: 0.000573
+
+-- doc: 42
+topic 9: 0.346933
+topic 4: 0.281092
+topic 3: 0.153348
+topic 1: 0.126337
+topic 7: 0.090321
+
+-- doc: 43
+topic 1: 0.355953
+topic 2: 0.212739
+topic 8: 0.181932
+topic 6: 0.108659
+topic 4: 0.077852
+
+-- doc: 44
+topic 3: 0.555405
+topic 9: 0.388739
+topic 6: 0.051802
+topic 8: 0.001351
+topic 0: 0.000450
+
+-- doc: 45
+topic 8: 0.743993
+topic 6: 0.193777
+topic 7: 0.054529
+topic 1: 0.003389
+topic 3: 0.002157
+
+-- doc: 46
+topic 6: 0.473529
+topic 9: 0.220588
+topic 7: 0.168301
+topic 2: 0.123856
+topic 4: 0.010131
+
+-- doc: 47
+topic 0: 0.379693
+topic 7: 0.375862
+topic 5: 0.213410
+topic 2: 0.018008
+topic 3: 0.008046
+
+-- doc: 48
+topic 1: 0.410038
+topic 9: 0.205492
+topic 8: 0.190972
+topic 4: 0.109533
+topic 3: 0.082386
+
+-- doc: 49
+topic 3: 0.646042
+topic 4: 0.225753
+topic 7: 0.116499
+topic 9: 0.007246
+topic 8: 0.001672
+
+-- doc: 50
+topic 2: 0.277308
+topic 7: 0.246300
+topic 8: 0.170190
+topic 6: 0.071529
+topic 9: 0.058140
+
+-- doc: 51
+topic 1: 0.315591
+topic 3: 0.245536
+topic 4: 0.233173
+topic 6: 0.096497
+topic 8: 0.060096
+
+-- doc: 52
+topic 4: 0.620891
+topic 1: 0.225345
+topic 7: 0.097031
+topic 2: 0.049311
+topic 6: 0.003712
+
+-- doc: 53
+topic 7: 0.472539
+topic 5: 0.120898
+topic 4: 0.118888
+topic 9: 0.118888
+topic 3: 0.051239
+
+-- doc: 54
+topic 4: 0.472830
+topic 7: 0.287925
+topic 8: 0.098491
+topic 5: 0.088679
+topic 0: 0.035094
+
+-- doc: 55
+topic 2: 0.475505
+topic 7: 0.229782
+topic 0: 0.180793
+topic 6: 0.092924
+topic 1: 0.018274
+
+-- doc: 56
+topic 1: 0.267390
+topic 4: 0.215034
+topic 3: 0.209798
+topic 9: 0.091623
+topic 5: 0.082648
+
+-- doc: 57
+topic 7: 0.622979
+topic 0: 0.273095
+topic 4: 0.072171
+topic 2: 0.013279
+topic 1: 0.006351
+
+-- doc: 58
+topic 6: 0.921625
+topic 9: 0.073046
+topic 1: 0.003774
+topic 0: 0.000222
+topic 2: 0.000222
+
+-- doc: 59
+topic 2: 0.812276
+topic 6: 0.118090
+topic 4: 0.030510
+topic 9: 0.028356
+topic 7: 0.006820
+
+-- doc: 60
+topic 9: 0.517573
+topic 1: 0.379736
+topic 3: 0.080999
+topic 6: 0.016200
+topic 5: 0.001922
+
+-- doc: 61
+topic 5: 0.648665
+topic 9: 0.146238
+topic 1: 0.085558
+topic 6: 0.058859
+topic 3: 0.021238
+
+-- doc: 62
+topic 5: 0.546598
+topic 2: 0.291240
+topic 8: 0.134669
+topic 3: 0.015377
+topic 9: 0.006058
+
+-- doc: 63
+topic 3: 0.444737
+topic 4: 0.307143
+topic 7: 0.183835
+topic 8: 0.059023
+topic 5: 0.002632
+
+-- doc: 64
+topic 0: 0.419521
+topic 5: 0.203767
+topic 7: 0.200342
+topic 1: 0.079795
+topic 3: 0.066781
+
+-- doc: 65
+topic 8: 0.534826
+topic 7: 0.114783
+topic 2: 0.100569
+topic 0: 0.083511
+topic 6: 0.081379
+
+-- doc: 66
+topic 8: 0.346132
+topic 0: 0.322029
+topic 2: 0.177410
+topic 5: 0.141536
+topic 1: 0.007567
+
+-- doc: 67
+topic 5: 0.395833
+topic 2: 0.365705
+topic 0: 0.103526
+topic 6: 0.091987
+topic 9: 0.034295
+
+-- doc: 68
+topic 0: 0.300844
+topic 4: 0.262869
+topic 8: 0.211392
+topic 7: 0.161603
+topic 6: 0.054430
+
+-- doc: 69
+topic 9: 0.609911
+topic 3: 0.244784
+topic 7: 0.092772
+topic 6: 0.027198
+topic 8: 0.020492
+
+-- doc: 70
+topic 2: 0.639484
+topic 4: 0.121087
+topic 6: 0.090884
+topic 1: 0.073861
+topic 9: 0.033773
+
+-- doc: 71
+topic 8: 0.427414
+topic 2: 0.120155
+topic 6: 0.113813
+topic 3: 0.109584
+topic 0: 0.103242
+
+-- doc: 72
+topic 5: 0.340399
+topic 1: 0.187448
+topic 0: 0.150873
+topic 7: 0.147548
+topic 3: 0.082710
+
+-- doc: 73
+topic 0: 0.746497
+topic 5: 0.236865
+topic 4: 0.011821
+topic 2: 0.001313
+topic 8: 0.001313
+
+-- doc: 74
+topic 8: 0.591335
+topic 1: 0.132319
+topic 5: 0.096409
+topic 4: 0.072209
+topic 0: 0.065183
+
+-- doc: 75
+topic 0: 0.280139
+topic 5: 0.232102
+topic 8: 0.228406
+topic 2: 0.100462
+topic 4: 0.076443
+
+-- doc: 76
+topic 0: 0.570612
+topic 4: 0.104573
+topic 5: 0.091796
+topic 7: 0.089106
+topic 2: 0.081708
+
+-- doc: 77
+topic 1: 0.784421
+topic 4: 0.154816
+topic 3: 0.031351
+topic 9: 0.027473
+topic 0: 0.000323
+
+-- doc: 78
+topic 1: 0.479801
+topic 9: 0.444672
+topic 4: 0.032494
+topic 6: 0.027225
+topic 3: 0.010831
+
+-- doc: 79
+topic 1: 0.658243
+topic 9: 0.151244
+topic 3: 0.106921
+topic 2: 0.072706
+topic 8: 0.005054
+
+-- doc: 80
+topic 9: 0.735364
+topic 6: 0.213212
+topic 7: 0.027294
+topic 1: 0.013845
+topic 4: 0.005142
+
+-- doc: 81
+topic 0: 0.274875
+topic 3: 0.247082
+topic 8: 0.167037
+topic 5: 0.141467
+topic 2: 0.064202
+
+-- doc: 82
+topic 8: 0.770027
+topic 5: 0.175901
+topic 6: 0.043725
+topic 7: 0.003672
+topic 0: 0.003004
+
+-- doc: 83
+topic 4: 0.376573
+topic 8: 0.340024
+topic 6: 0.138107
+topic 1: 0.099760
+topic 9: 0.036848
+
+-- doc: 84
+topic 5: 0.561951
+topic 6: 0.190246
+topic 8: 0.141916
+topic 2: 0.063708
+topic 7: 0.023286
+
+-- doc: 85
+topic 1: 0.736981
+topic 5: 0.123396
+topic 8: 0.072830
+topic 0: 0.029057
+topic 3: 0.022264
+
+-- doc: 86
+topic 1: 0.929337
+topic 9: 0.065975
+topic 5: 0.002344
+topic 0: 0.000335
+topic 2: 0.000335
+
+-- doc: 87
+topic 1: 0.485015
+topic 6: 0.160340
+topic 2: 0.086414
+topic 7: 0.079421
+topic 8: 0.077423
+
+-- doc: 88
+topic 7: 0.468712
+topic 3: 0.386695
+topic 0: 0.112697
+topic 2: 0.013062
+topic 1: 0.006987
+
+-- doc: 89
+topic 8: 0.432893
+topic 6: 0.239569
+topic 7: 0.179068
+topic 2: 0.074757
+topic 4: 0.037204
+
+-- doc: 90
+topic 8: 0.545570
+topic 1: 0.154852
+topic 0: 0.135443
+topic 4: 0.069620
+topic 7: 0.054430
+
+-- doc: 91
+topic 7: 0.496624
+topic 3: 0.371033
+topic 2: 0.040851
+topic 0: 0.039500
+topic 4: 0.033423
+
+-- doc: 92
+topic 1: 0.477713
+topic 5: 0.269501
+topic 3: 0.157478
+topic 2: 0.037243
+topic 9: 0.032551
+
+-- doc: 93
+topic 9: 0.430393
+topic 3: 0.227085
+topic 2: 0.216058
+topic 6: 0.098208
+topic 7: 0.013439
+
+-- doc: 94
+topic 3: 0.365792
+topic 1: 0.337333
+topic 7: 0.244141
+topic 9: 0.041016
+topic 2: 0.008092
+
+-- doc: 95
+topic 5: 0.501007
+topic 2: 0.203927
+topic 9: 0.105237
+topic 4: 0.099194
+topic 1: 0.081067
+
+-- doc: 96
+topic 4: 0.300786
+topic 7: 0.247582
+topic 3: 0.205865
+topic 6: 0.168984
+topic 1: 0.033555
+
+-- doc: 97
+topic 3: 0.610294
+topic 9: 0.329902
+topic 6: 0.055392
+topic 1: 0.001471
+topic 0: 0.000490
+
+-- doc: 98
+topic 2: 0.569166
+topic 7: 0.234324
+topic 4: 0.117970
+topic 0: 0.035876
+topic 1: 0.026180
+
+-- doc: 99
+topic 9: 0.279435
+topic 5: 0.239919
+topic 1: 0.170565
+topic 4: 0.135081
+topic 6: 0.072177
+
+-- doc: 100
+topic 6: 0.308200
+topic 4: 0.160876
+topic 3: 0.134468
+topic 7: 0.133773
+topic 5: 0.111536
+
+-- doc: 101
+topic 7: 0.732238
+topic 3: 0.137892
+topic 2: 0.072193
+topic 6: 0.053858
+topic 0: 0.001146
+
+-- doc: 102
+topic 0: 0.842839
+topic 2: 0.154681
+topic 1: 0.000310
+topic 3: 0.000310
+topic 4: 0.000310
+
+-- doc: 103
+topic 0: 0.529333
+topic 2: 0.204790
+topic 5: 0.129440
+topic 7: 0.086383
+topic 4: 0.043326
+
+-- doc: 104
+topic 6: 0.645319
+topic 9: 0.259103
+topic 3: 0.058192
+topic 2: 0.031534
+topic 7: 0.003576
+
+-- doc: 105
+topic 2: 0.462187
+topic 6: 0.456370
+topic 8: 0.069517
+topic 4: 0.007272
+topic 3: 0.002618
+
+-- doc: 106
+topic 5: 0.772584
+topic 8: 0.063236
+topic 1: 0.054595
+topic 7: 0.041241
+topic 9: 0.038099
+
+-- doc: 107
+topic 1: 0.485685
+topic 4: 0.301636
+topic 9: 0.206885
+topic 7: 0.002386
+topic 3: 0.001704
+
+-- doc: 108
+topic 9: 0.668163
+topic 3: 0.210290
+topic 1: 0.051450
+topic 6: 0.038329
+topic 4: 0.026588
+
+-- doc: 109
+topic 4: 0.374069
+topic 6: 0.370345
+topic 8: 0.092412
+topic 2: 0.061220
+topic 1: 0.052840
+
+-- doc: 110
+topic 4: 0.389363
+topic 5: 0.187500
+topic 8: 0.155668
+topic 6: 0.134705
+topic 7: 0.088121
+
+-- doc: 111
+topic 0: 0.513368
+topic 7: 0.292802
+topic 2: 0.172494
+topic 8: 0.019280
+topic 5: 0.000771
+
+-- doc: 112
+topic 0: 0.504271
+topic 8: 0.229713
+topic 1: 0.154057
+topic 7: 0.055827
+topic 2: 0.036913
+
+-- doc: 113
+topic 9: 0.498524
+topic 1: 0.432120
+topic 3: 0.040089
+topic 4: 0.027791
+topic 0: 0.000246
+
+-- doc: 114
+topic 7: 0.355179
+topic 2: 0.221649
+topic 3: 0.196122
+topic 0: 0.114629
+topic 5: 0.073883
+
+-- doc: 115
+topic 8: 0.418266
+topic 2: 0.130960
+topic 5: 0.104334
+topic 1: 0.100000
+topic 4: 0.078328
+
+-- doc: 116
+topic 5: 0.308838
+topic 0: 0.237752
+topic 8: 0.204131
+topic 7: 0.192603
+topic 2: 0.036984
+
+-- doc: 117
+topic 4: 0.354620
+topic 8: 0.162591
+topic 3: 0.120924
+topic 1: 0.107337
+topic 7: 0.104620
+
+-- doc: 118
+topic 9: 0.508531
+topic 4: 0.329748
+topic 1: 0.136128
+topic 2: 0.018917
+topic 8: 0.004822
+
+-- doc: 119
+topic 8: 0.448767
+topic 4: 0.267868
+topic 5: 0.114801
+topic 7: 0.059140
+topic 2: 0.057242
+
+-- doc: 120
+topic 1: 0.610648
+topic 8: 0.149613
+topic 9: 0.134741
+topic 4: 0.097858
+topic 6: 0.004462
+
+-- doc: 121
+topic 0: 0.971389
+topic 2: 0.021944
+topic 6: 0.003611
+topic 4: 0.001389
+topic 1: 0.000278
+
+-- doc: 122
+topic 9: 0.444338
+topic 7: 0.329814
+topic 6: 0.120601
+topic 1: 0.082853
+topic 3: 0.018874
+
+-- doc: 123
+topic 5: 0.856899
+topic 0: 0.082668
+topic 7: 0.055302
+topic 2: 0.001710
+topic 1: 0.000570
+
+-- doc: 124
+topic 7: 0.368442
+topic 1: 0.198951
+topic 4: 0.188458
+topic 5: 0.141646
+topic 3: 0.071429
+
+-- doc: 125
+topic 0: 0.896805
+topic 5: 0.066926
+topic 2: 0.028929
+topic 8: 0.002159
+topic 9: 0.002159
+
+-- doc: 126
+topic 3: 0.263433
+topic 1: 0.229239
+topic 9: 0.172017
+topic 4: 0.132240
+topic 8: 0.108514
+
+-- doc: 127
+topic 4: 0.556329
+topic 1: 0.176607
+topic 3: 0.085156
+topic 7: 0.065275
+topic 2: 0.040755
+
+-- doc: 128
+topic 9: 0.679678
+topic 1: 0.170143
+topic 3: 0.093862
+topic 6: 0.033075
+topic 7: 0.021156
+
+-- doc: 129
+topic 5: 0.255539
+topic 4: 0.252483
+topic 7: 0.252483
+topic 3: 0.153934
+topic 8: 0.059969
+
+-- doc: 130
+topic 6: 0.658808
+topic 4: 0.151690
+topic 3: 0.072509
+topic 8: 0.045819
+topic 2: 0.042260
+
+-- doc: 131
+topic 9: 0.625828
+topic 3: 0.205960
+topic 2: 0.129139
+topic 6: 0.029801
+topic 8: 0.005960
+
+-- doc: 132
+topic 0: 0.500000
+topic 7: 0.453328
+topic 2: 0.030987
+topic 4: 0.006503
+topic 3: 0.005738
+
+-- doc: 133
+topic 1: 0.403328
+topic 9: 0.264395
+topic 4: 0.170893
+topic 3: 0.158743
+topic 7: 0.000792
+
+-- doc: 134
+topic 8: 0.301117
+topic 7: 0.229239
+topic 6: 0.132240
+topic 4: 0.105722
+topic 9: 0.078507
+
+-- doc: 135
+topic 7: 0.726693
+topic 0: 0.128437
+topic 3: 0.068746
+topic 2: 0.037894
+topic 6: 0.035882
+
+-- doc: 136
+topic 1: 0.871633
+topic 8: 0.032407
+topic 3: 0.027357
+topic 4: 0.023148
+topic 9: 0.018098
+
+-- doc: 137
+topic 9: 0.235119
+topic 4: 0.225595
+topic 5: 0.167262
+topic 1: 0.148214
+topic 6: 0.088690
+
+-- doc: 138
+topic 9: 0.632110
+topic 6: 0.204587
+topic 4: 0.114067
+topic 3: 0.032110
+topic 7: 0.015596
+
+-- doc: 139
+topic 0: 0.463653
+topic 7: 0.287512
+topic 2: 0.244641
+topic 8: 0.001398
+topic 1: 0.000466
+
+-- doc: 140
+topic 1: 0.581910
+topic 4: 0.151281
+topic 2: 0.108058
+topic 9: 0.087247
+topic 6: 0.061099
+
+-- doc: 141
+topic 6: 0.454772
+topic 2: 0.271643
+topic 9: 0.204495
+topic 4: 0.053552
+topic 3: 0.007492
+
+-- doc: 142
+topic 5: 0.498222
+topic 0: 0.492000
+topic 2: 0.006667
+topic 1: 0.000444
+topic 3: 0.000444
+
+-- doc: 143
+topic 6: 0.694161
+topic 9: 0.122384
+topic 4: 0.120438
+topic 7: 0.050365
+topic 2: 0.008516
+
+-- doc: 144
+topic 6: 0.592220
+topic 9: 0.195367
+topic 3: 0.086976
+topic 8: 0.066871
+topic 4: 0.031031
+
+-- doc: 145
+topic 2: 0.541545
+topic 7: 0.209670
+topic 1: 0.103741
+topic 8: 0.093052
+topic 6: 0.047376
+
+-- doc: 146
+topic 9: 0.359495
+topic 5: 0.246432
+topic 3: 0.157519
+topic 7: 0.152031
+topic 8: 0.054336
+
+-- doc: 147
+topic 5: 0.478875
+topic 8: 0.194985
+topic 0: 0.124164
+topic 7: 0.051216
+topic 2: 0.043921
+
+-- doc: 148
+topic 9: 0.447008
+topic 6: 0.420639
+topic 7: 0.117394
+topic 2: 0.008874
+topic 5: 0.003296
+
+-- doc: 149
+topic 2: 0.570646
+topic 0: 0.159458
+topic 6: 0.153691
+topic 7: 0.097751
+topic 1: 0.010669
+
+-- doc: 150
+topic 7: 0.495415
+topic 6: 0.424552
+topic 2: 0.062318
+topic 0: 0.015215
+topic 3: 0.000625
+
+-- doc: 151
+topic 6: 0.729352
+topic 9: 0.210580
+topic 7: 0.052901
+topic 2: 0.003754
+topic 1: 0.001024
+
+-- doc: 152
+topic 7: 0.341408
+topic 5: 0.216179
+topic 3: 0.186929
+topic 2: 0.129342
+topic 0: 0.067185
+
+-- doc: 153
+topic 9: 0.768382
+topic 6: 0.166258
+topic 3: 0.024918
+topic 1: 0.021650
+topic 7: 0.015931
+
+-- doc: 154
+topic 7: 0.472280
+topic 0: 0.375907
+topic 2: 0.150000
+topic 1: 0.000259
+topic 3: 0.000259
+
+-- doc: 155
+topic 7: 0.331964
+topic 4: 0.228902
+topic 6: 0.216206
+topic 2: 0.138536
+topic 3: 0.081777
+
+-- doc: 156
+topic 6: 0.406960
+topic 7: 0.314652
+topic 9: 0.220879
+topic 4: 0.045788
+topic 2: 0.006960
+
+-- doc: 157
+topic 4: 0.296917
+topic 1: 0.239801
+topic 2: 0.237081
+topic 8: 0.134633
+topic 6: 0.087489
+
+-- doc: 158
+topic 7: 0.418817
+topic 2: 0.245699
+topic 5: 0.244624
+topic 8: 0.036022
+topic 0: 0.026344
+
+-- doc: 159
+topic 8: 0.679138
+topic 5: 0.199169
+topic 1: 0.109977
+topic 4: 0.004913
+topic 0: 0.004157
+
+-- doc: 160
+topic 8: 0.766039
+topic 1: 0.190725
+topic 5: 0.030335
+topic 3: 0.005230
+topic 4: 0.004533
+
+-- doc: 161
+topic 9: 0.380937
+topic 3: 0.197463
+topic 6: 0.168835
+topic 4: 0.111581
+topic 7: 0.091412
+
+-- doc: 162
+topic 1: 0.620661
+topic 8: 0.147934
+topic 5: 0.088981
+topic 4: 0.080716
+topic 9: 0.058127
+
+-- doc: 163
+topic 9: 0.527134
+topic 1: 0.389768
+topic 7: 0.069248
+topic 6: 0.008197
+topic 2: 0.004240
+
+-- doc: 164
+topic 4: 0.433368
+topic 1: 0.213691
+topic 9: 0.108017
+topic 6: 0.092920
+topic 2: 0.073660
+
+-- doc: 165
+topic 5: 0.379677
+topic 0: 0.197704
+topic 4: 0.158588
+topic 2: 0.134779
+topic 9: 0.051446
+
+-- doc: 166
+topic 8: 0.391590
+topic 0: 0.335262
+topic 5: 0.079090
+topic 7: 0.078318
+topic 1: 0.052855
+
+-- doc: 167
+topic 8: 0.590576
+topic 0: 0.202653
+topic 6: 0.130375
+topic 5: 0.056267
+topic 2: 0.013266
+
+-- doc: 168
+topic 0: 0.992264
+topic 6: 0.002850
+topic 9: 0.002036
+topic 1: 0.000407
+topic 2: 0.000407
+
+-- doc: 169
+topic 1: 0.574654
+topic 3: 0.192354
+topic 4: 0.126129
+topic 7: 0.058098
+topic 9: 0.018362
+
+-- doc: 170
+topic 2: 0.265578
+topic 0: 0.233663
+topic 3: 0.209347
+topic 9: 0.176672
+topic 5: 0.097644
+
+-- doc: 171
+topic 0: 0.823737
+topic 6: 0.125204
+topic 7: 0.027431
+topic 2: 0.018740
+topic 3: 0.002988
+
+-- doc: 172
+topic 5: 0.402576
+topic 8: 0.280383
+topic 0: 0.118560
+topic 4: 0.097424
+topic 7: 0.071664
+
+-- doc: 173
+topic 3: 0.491925
+topic 7: 0.280685
+topic 9: 0.128876
+topic 2: 0.068798
+topic 1: 0.016473
+
+-- doc: 174
+topic 0: 0.862967
+topic 5: 0.125246
+topic 7: 0.004420
+topic 2: 0.001473
+topic 4: 0.001473
+
+-- doc: 175
+topic 9: 0.448607
+topic 1: 0.297414
+topic 3: 0.109085
+topic 6: 0.075265
+topic 7: 0.044098
+
+-- doc: 176
+topic 0: 0.985849
+topic 5: 0.008148
+topic 8: 0.002144
+topic 7: 0.001286
+topic 1: 0.000429
+
+-- doc: 177
+topic 2: 0.468750
+topic 5: 0.182658
+topic 0: 0.113996
+topic 8: 0.083187
+topic 7: 0.078785
+
+-- doc: 178
+topic 1: 0.302622
+topic 7: 0.218864
+topic 3: 0.218135
+topic 9: 0.155499
+topic 4: 0.065186
+
+-- doc: 179
+topic 5: 0.428172
+topic 8: 0.239117
+topic 7: 0.132152
+topic 2: 0.118470
+topic 0: 0.037002
+
+-- doc: 180
+topic 2: 0.624619
+topic 6: 0.154061
+topic 7: 0.114975
+topic 4: 0.044416
+topic 9: 0.035787
+
+-- doc: 181
+topic 8: 0.489478
+topic 5: 0.287010
+topic 1: 0.141147
+topic 4: 0.079463
+topic 6: 0.001089
+
+-- doc: 182
+topic 7: 0.687272
+topic 0: 0.162911
+topic 2: 0.077040
+topic 6: 0.069123
+topic 3: 0.001523
+
+-- doc: 183
+topic 3: 0.420819
+topic 1: 0.263823
+topic 6: 0.120478
+topic 8: 0.093857
+topic 7: 0.061775
+
+-- doc: 184
+topic 1: 0.492883
+topic 4: 0.244484
+topic 9: 0.186121
+topic 8: 0.072954
+topic 2: 0.001068
+
+-- doc: 185
+topic 1: 0.338652
+topic 4: 0.236525
+topic 5: 0.204610
+topic 3: 0.158511
+topic 9: 0.035106
+
+-- doc: 186
+topic 9: 0.430294
+topic 1: 0.388529
+topic 2: 0.154412
+topic 3: 0.020882
+topic 4: 0.003824
+
+-- doc: 187
+topic 0: 0.680992
+topic 8: 0.126965
+topic 5: 0.090128
+topic 3: 0.045923
+topic 1: 0.024312
+
+-- doc: 188
+topic 7: 0.466484
+topic 3: 0.314138
+topic 0: 0.086837
+topic 9: 0.065509
+topic 1: 0.063071
+
+-- doc: 189
+topic 2: 0.342719
+topic 7: 0.247156
+topic 5: 0.107793
+topic 9: 0.104949
+topic 4: 0.103811
+
+-- doc: 190
+topic 8: 0.243721
+topic 5: 0.216248
+topic 4: 0.213893
+topic 2: 0.156593
+topic 6: 0.114207
+
+-- doc: 191
+topic 6: 0.612784
+topic 9: 0.380966
+topic 2: 0.003693
+topic 4: 0.000852
+topic 0: 0.000284
+
+-- doc: 192
+topic 5: 0.634764
+topic 8: 0.157511
+topic 0: 0.100858
+topic 7: 0.096567
+topic 1: 0.004721
+
+-- doc: 193
+topic 3: 0.212883
+topic 5: 0.185584
+topic 9: 0.183669
+topic 7: 0.148707
+topic 2: 0.142960
+
+-- doc: 194
+topic 0: 0.300908
+topic 7: 0.278198
+topic 8: 0.272142
+topic 3: 0.063967
+topic 4: 0.051098
+
+-- doc: 195
+topic 1: 0.344757
+topic 6: 0.342999
+topic 4: 0.130931
+topic 3: 0.102226
+topic 9: 0.058289
+
+-- doc: 196
+topic 9: 0.562384
+topic 4: 0.233169
+topic 1: 0.125695
+topic 5: 0.036751
+topic 2: 0.030574
+
+-- doc: 197
+topic 7: 0.277899
+topic 8: 0.261232
+topic 0: 0.222101
+topic 6: 0.134420
+topic 2: 0.067029
+
+-- doc: 198
+topic 1: 0.738493
+topic 4: 0.155063
+topic 9: 0.084292
+topic 6: 0.015247
+topic 2: 0.002589
+
+-- doc: 199
+topic 9: 0.829683
+topic 1: 0.127266
+topic 7: 0.015483
+topic 2: 0.008686
+topic 8: 0.008686
+
+-- doc: 200
+topic 1: 0.669501
+topic 4: 0.141056
+topic 3: 0.122287
+topic 6: 0.027859
+topic 7: 0.016129
+
+-- doc: 201
+topic 6: 0.662556
+topic 9: 0.167788
+topic 3: 0.161061
+topic 7: 0.006353
+topic 0: 0.000374
+
+-- doc: 202
+topic 1: 0.655192
+topic 4: 0.150962
+topic 9: 0.138269
+topic 6: 0.044038
+topic 7: 0.009423
+
+-- doc: 203
+topic 0: 0.336161
+topic 7: 0.326339
+topic 5: 0.154911
+topic 8: 0.147768
+topic 2: 0.030804
+
+-- doc: 204
+topic 7: 0.471268
+topic 3: 0.370211
+topic 2: 0.141017
+topic 9: 0.011559
+topic 6: 0.004293
+
+-- doc: 205
+topic 2: 0.577470
+topic 0: 0.229702
+topic 4: 0.071380
+topic 5: 0.067997
+topic 7: 0.050406
+
+-- doc: 206
+topic 7: 0.446881
+topic 0: 0.255848
+topic 4: 0.123294
+topic 8: 0.103801
+topic 6: 0.042398
+
+-- doc: 207
+topic 7: 0.288777
+topic 3: 0.211223
+topic 4: 0.198449
+topic 5: 0.134580
+topic 2: 0.081661
+
+-- doc: 208
+topic 5: 0.647987
+topic 9: 0.117114
+topic 2: 0.103691
+topic 1: 0.069463
+topic 4: 0.037248
+
+-- doc: 209
+topic 6: 0.847689
+topic 7: 0.110994
+topic 4: 0.028361
+topic 8: 0.006653
+topic 9: 0.003151
+
+-- doc: 210
+topic 0: 0.346731
+topic 2: 0.314046
+topic 5: 0.137367
+topic 6: 0.117933
+topic 7: 0.046378
+
+-- doc: 211
+topic 0: 0.538819
+topic 8: 0.249367
+topic 5: 0.127848
+topic 2: 0.025738
+topic 7: 0.024051
+
+-- doc: 212
+topic 5: 0.470611
+topic 2: 0.195802
+topic 7: 0.162214
+topic 0: 0.132443
+topic 1: 0.034733
+
+-- doc: 213
+topic 0: 0.633304
+topic 7: 0.299388
+topic 5: 0.034528
+topic 2: 0.024038
+topic 1: 0.002185
+
+-- doc: 214
+topic 4: 0.353412
+topic 6: 0.286015
+topic 8: 0.231255
+topic 2: 0.092249
+topic 7: 0.026537
+
+-- doc: 215
+topic 6: 0.682240
+topic 2: 0.232273
+topic 0: 0.047382
+topic 7: 0.026839
+topic 9: 0.008946
+
+-- doc: 216
+topic 9: 0.394560
+topic 3: 0.198584
+topic 4: 0.188897
+topic 6: 0.123323
+topic 1: 0.053279
+
+-- doc: 217
+topic 2: 0.412243
+topic 1: 0.187190
+topic 9: 0.106511
+topic 5: 0.097311
+topic 8: 0.093064
+
+-- doc: 218
+topic 5: 0.414435
+topic 3: 0.182560
+topic 8: 0.173416
+topic 4: 0.108099
+topic 1: 0.091117
+
+-- doc: 219
+topic 8: 0.628717
+topic 4: 0.150093
+topic 3: 0.085037
+topic 7: 0.059015
+topic 6: 0.054368
+
+-- doc: 220
+topic 2: 0.432739
+topic 7: 0.193205
+topic 5: 0.170556
+topic 0: 0.123885
+topic 6: 0.065546
+
+-- doc: 221
+topic 5: 0.404799
+topic 2: 0.301731
+topic 3: 0.174272
+topic 1: 0.089300
+topic 0: 0.016916
+
+-- doc: 222
+topic 5: 0.433594
+topic 7: 0.297230
+topic 1: 0.119673
+topic 4: 0.062855
+topic 0: 0.062145
+
+-- doc: 223
+topic 9: 0.537631
+topic 1: 0.345774
+topic 3: 0.099630
+topic 7: 0.010179
+topic 8: 0.003393
+
+-- doc: 224
+topic 8: 0.539786
+topic 1: 0.191591
+topic 4: 0.162810
+topic 5: 0.102427
+topic 3: 0.001975
+
+-- doc: 225
+topic 3: 0.358257
+topic 1: 0.275688
+topic 4: 0.205046
+topic 9: 0.104128
+topic 5: 0.048165
+
+-- doc: 226
+topic 0: 0.324627
+topic 8: 0.290184
+topic 2: 0.196039
+topic 5: 0.140930
+topic 6: 0.036452
+
+-- doc: 227
+topic 0: 0.211023
+topic 5: 0.190317
+topic 9: 0.142814
+topic 1: 0.142205
+topic 3: 0.131851
+
+-- doc: 228
+topic 0: 0.763542
+topic 7: 0.121181
+topic 8: 0.071181
+topic 1: 0.023264
+topic 2: 0.008681
+
+-- doc: 229
+topic 6: 0.823630
+topic 4: 0.125685
+topic 2: 0.046233
+topic 7: 0.001712
+topic 9: 0.001027
+
+-- doc: 230
+topic 2: 0.824144
+topic 4: 0.094740
+topic 0: 0.047845
+topic 5: 0.018061
+topic 7: 0.008555
+
+-- doc: 231
+topic 9: 0.704274
+topic 6: 0.241054
+topic 1: 0.026342
+topic 3: 0.025348
+topic 0: 0.000497
+
+-- doc: 232
+topic 3: 0.671281
+topic 2: 0.152286
+topic 6: 0.062782
+topic 9: 0.039601
+topic 5: 0.032518
+
+-- doc: 233
+topic 8: 0.455541
+topic 2: 0.269078
+topic 0: 0.144326
+topic 6: 0.075315
+topic 7: 0.026875
+
+-- doc: 234
+topic 5: 0.353140
+topic 1: 0.205357
+topic 9: 0.137623
+topic 0: 0.092672
+topic 4: 0.075431
+
+-- doc: 235
+topic 9: 0.598761
+topic 3: 0.219361
+topic 6: 0.090287
+topic 7: 0.079205
+topic 2: 0.008801
+
+-- doc: 236
+topic 3: 0.457713
+topic 7: 0.282181
+topic 4: 0.093883
+topic 1: 0.074734
+topic 6: 0.041755
+
+-- doc: 237
+topic 9: 0.485915
+topic 3: 0.258685
+topic 7: 0.174178
+topic 2: 0.046479
+topic 5: 0.030516
+
+-- doc: 238
+topic 1: 0.363413
+topic 4: 0.208919
+topic 5: 0.154846
+topic 7: 0.151334
+topic 8: 0.108497
+
+-- doc: 239
+topic 7: 0.298658
+topic 1: 0.274049
+topic 0: 0.127890
+topic 2: 0.118941
+topic 4: 0.102535
+
+-- doc: 240
+topic 3: 0.205712
+topic 5: 0.191191
+topic 7: 0.186350
+topic 2: 0.167957
+topic 0: 0.120523
+
+-- doc: 241
+topic 1: 0.434618
+topic 8: 0.248978
+topic 4: 0.167250
+topic 7: 0.056334
+topic 5: 0.031232
+
+-- doc: 242
+topic 2: 0.499595
+topic 5: 0.397654
+topic 9: 0.055421
+topic 4: 0.036003
+topic 0: 0.006877
+
+-- doc: 243
+topic 6: 0.741637
+topic 4: 0.237236
+topic 7: 0.014525
+topic 2: 0.003961
+topic 0: 0.000440
+
+-- doc: 244
+topic 7: 0.352918
+topic 5: 0.237743
+topic 2: 0.232296
+topic 4: 0.137354
+topic 1: 0.026070
+
+-- doc: 245
+topic 0: 0.641056
+topic 5: 0.191095
+topic 7: 0.080772
+topic 8: 0.040583
+topic 2: 0.023247
+
+-- doc: 246
+topic 7: 0.469925
+topic 8: 0.280588
+topic 0: 0.160971
+topic 3: 0.058442
+topic 2: 0.022898
+
+-- doc: 247
+topic 8: 0.574319
+topic 4: 0.249816
+topic 6: 0.102649
+topic 7: 0.040839
+topic 0: 0.027594
+
+-- doc: 248
+topic 6: 0.276139
+topic 0: 0.186337
+topic 2: 0.181206
+topic 5: 0.161963
+topic 7: 0.125401
+
+-- doc: 249
+topic 8: 0.345492
+topic 2: 0.315984
+topic 4: 0.204508
+topic 6: 0.061885
+topic 7: 0.053689
+
+-- doc: 250
+topic 5: 0.531453
+topic 8: 0.207847
+topic 1: 0.148833
+topic 7: 0.055447
+topic 0: 0.049611
+
+-- doc: 251
+topic 1: 0.365965
+topic 4: 0.338997
+topic 9: 0.114617
+topic 2: 0.097357
+topic 7: 0.064455
+
+-- doc: 252
+topic 1: 0.279186
+topic 2: 0.262896
+topic 7: 0.219457
+topic 0: 0.110860
+topic 6: 0.073756
+
+-- doc: 253
+topic 7: 0.253367
+topic 0: 0.248878
+topic 2: 0.248316
+topic 6: 0.114759
+topic 8: 0.101291
+
+-- doc: 254
+topic 0: 0.544195
+topic 5: 0.244723
+topic 7: 0.155013
+topic 6: 0.052111
+topic 1: 0.000660
+
+-- doc: 255
+topic 5: 0.499338
+topic 0: 0.364328
+topic 7: 0.072469
+topic 8: 0.040040
+topic 2: 0.020847
+
+-- doc: 256
+topic 1: 0.475526
+topic 3: 0.243312
+topic 9: 0.182982
+topic 2: 0.054923
+topic 6: 0.031588
+
+-- doc: 257
+topic 1: 0.690097
+topic 4: 0.199792
+topic 6: 0.070291
+topic 9: 0.028047
+topic 8: 0.009349
+
+-- doc: 258
+topic 9: 0.842608
+topic 6: 0.104236
+topic 8: 0.036960
+topic 7: 0.010382
+topic 4: 0.002076
+
+-- doc: 259
+topic 9: 0.913676
+topic 6: 0.057211
+topic 7: 0.015911
+topic 3: 0.011171
+topic 0: 0.000339
+
+-- doc: 260
+topic 7: 0.391869
+topic 8: 0.311400
+topic 3: 0.141241
+topic 6: 0.069992
+topic 4: 0.054904
+
+-- doc: 261
+topic 5: 0.391604
+topic 0: 0.283835
+topic 3: 0.112155
+topic 6: 0.093358
+topic 8: 0.069549
+
+-- doc: 262
+topic 3: 0.363656
+topic 1: 0.348606
+topic 9: 0.153829
+topic 7: 0.072377
+topic 2: 0.050243
+
+-- doc: 263
+topic 7: 0.258397
+topic 0: 0.227166
+topic 1: 0.178845
+topic 3: 0.175899
+topic 4: 0.124632
+
+-- doc: 264
+topic 4: 0.548675
+topic 6: 0.347859
+topic 9: 0.050204
+topic 2: 0.028797
+topic 5: 0.014526
+
+-- doc: 265
+topic 4: 0.508578
+topic 1: 0.228350
+topic 3: 0.127859
+topic 8: 0.071487
+topic 7: 0.056781
+
+-- doc: 266
+topic 2: 0.370529
+topic 3: 0.216373
+topic 5: 0.133753
+topic 6: 0.111587
+topic 9: 0.102519
+
+-- doc: 267
+topic 2: 0.343875
+topic 5: 0.275300
+topic 7: 0.182091
+topic 8: 0.120173
+topic 4: 0.050932
+
+-- doc: 268
+topic 9: 0.413923
+topic 6: 0.319959
+topic 3: 0.184156
+topic 8: 0.044239
+topic 7: 0.027778
+
+-- doc: 269
+topic 0: 0.825207
+topic 7: 0.135950
+topic 8: 0.030992
+topic 4: 0.002893
+topic 2: 0.002066
+
+-- doc: 270
+topic 5: 0.475792
+topic 4: 0.241637
+topic 3: 0.118398
+topic 1: 0.075264
+topic 8: 0.044454
+
+-- doc: 271
+topic 9: 0.315554
+topic 1: 0.247150
+topic 3: 0.177932
+topic 4: 0.159202
+topic 5: 0.092427
+
+-- doc: 272
+topic 5: 0.507035
+topic 8: 0.248744
+topic 7: 0.127136
+topic 9: 0.058794
+topic 0: 0.035678
+
+-- doc: 273
+topic 0: 0.408206
+topic 5: 0.225465
+topic 7: 0.148477
+topic 8: 0.118020
+topic 2: 0.081641
+
+-- doc: 274
+topic 5: 0.337006
+topic 8: 0.194149
+topic 1: 0.114362
+topic 6: 0.109802
+topic 4: 0.109043
+
+-- doc: 275
+topic 1: 0.854072
+topic 8: 0.129336
+topic 2: 0.013952
+topic 0: 0.000377
+topic 3: 0.000377
+
+-- doc: 276
+topic 7: 0.271474
+topic 2: 0.225321
+topic 6: 0.213782
+topic 5: 0.134936
+topic 8: 0.074679
+
+-- doc: 277
+topic 0: 0.425260
+topic 5: 0.301384
+topic 8: 0.143599
+topic 7: 0.092388
+topic 4: 0.020415
+
+-- doc: 278
+topic 9: 0.322924
+topic 5: 0.314107
+topic 1: 0.186260
+topic 4: 0.102498
+topic 7: 0.040044
+
+-- doc: 279
+topic 6: 0.305090
+topic 7: 0.269008
+topic 8: 0.215528
+topic 1: 0.120168
+topic 0: 0.086662
+
+-- doc: 280
+topic 1: 0.478859
+topic 4: 0.293379
+topic 5: 0.073195
+topic 6: 0.062425
+topic 2: 0.038492
+
+-- doc: 281
+topic 1: 0.643455
+topic 5: 0.106925
+topic 3: 0.100076
+topic 7: 0.069635
+topic 9: 0.043760
+
+-- doc: 282
+topic 3: 0.413302
+topic 4: 0.264394
+topic 1: 0.177697
+topic 7: 0.107545
+topic 9: 0.035407
+
+-- doc: 283
+topic 8: 0.456471
+topic 5: 0.293914
+topic 1: 0.114407
+topic 0: 0.102851
+topic 2: 0.028120
+
+-- doc: 284
+topic 1: 0.325324
+topic 6: 0.179634
+topic 3: 0.152937
+topic 8: 0.104119
+topic 4: 0.103356
+
+-- doc: 285
+topic 1: 0.408090
+topic 9: 0.168685
+topic 4: 0.151624
+topic 5: 0.116401
+topic 3: 0.108145
+
+-- doc: 286
+topic 2: 0.406411
+topic 7: 0.267133
+topic 9: 0.196389
+topic 4: 0.071850
+topic 1: 0.051953
+
+-- doc: 287
+topic 4: 0.470105
+topic 1: 0.342641
+topic 9: 0.069317
+topic 5: 0.056176
+topic 3: 0.041064
+
+-- doc: 288
+topic 5: 0.337668
+topic 6: 0.315856
+topic 0: 0.142198
+topic 2: 0.088507
+topic 7: 0.074245
+
+-- doc: 289
+topic 2: 0.518374
+topic 6: 0.365411
+topic 9: 0.057648
+topic 4: 0.053055
+topic 7: 0.004364
+
+-- doc: 290
+topic 6: 0.682282
+topic 9: 0.304731
+topic 4: 0.007885
+topic 0: 0.001391
+topic 8: 0.001391
+
+-- doc: 291
+topic 4: 0.360340
+topic 1: 0.295882
+topic 5: 0.148165
+topic 7: 0.102507
+topic 9: 0.054163
+
+-- doc: 292
+topic 7: 0.444563
+topic 3: 0.333689
+topic 6: 0.192253
+topic 9: 0.018834
+topic 4: 0.008884
+
+-- doc: 293
+topic 3: 0.463309
+topic 9: 0.255837
+topic 7: 0.157772
+topic 1: 0.103736
+topic 4: 0.007672
+
+-- doc: 294
+topic 3: 0.442431
+topic 1: 0.305970
+topic 5: 0.164534
+topic 7: 0.084932
+topic 0: 0.000355
+
+-- doc: 295
+topic 1: 0.318678
+topic 3: 0.241055
+topic 9: 0.236810
+topic 4: 0.108854
+topic 5: 0.085810
+
+-- doc: 296
+topic 8: 0.771668
+topic 7: 0.124181
+topic 6: 0.042607
+topic 1: 0.022214
+topic 5: 0.016387
+
+-- doc: 297
+topic 5: 0.350362
+topic 6: 0.272325
+topic 8: 0.162912
+topic 0: 0.072808
+topic 2: 0.047868
+
+-- doc: 298
+topic 3: 0.831888
+topic 9: 0.082370
+topic 8: 0.026493
+topic 6: 0.023603
+topic 4: 0.018786
+
+-- doc: 299
+topic 1: 0.797855
+topic 4: 0.067932
+topic 3: 0.057481
+topic 9: 0.040429
+topic 6: 0.023377
+
+-- doc: 300
+topic 1: 0.612622
+topic 5: 0.167713
+topic 4: 0.133543
+topic 9: 0.081241
+topic 2: 0.002441
+
+-- doc: 301
+topic 9: 0.376773
+topic 4: 0.213652
+topic 1: 0.198286
+topic 6: 0.119090
+topic 3: 0.085402
+
+-- doc: 302
+topic 4: 0.346305
+topic 1: 0.316069
+topic 9: 0.290314
+topic 6: 0.032755
+topic 8: 0.011478
+
+-- doc: 303
+topic 6: 0.535825
+topic 9: 0.233786
+topic 3: 0.088017
+topic 4: 0.065781
+topic 1: 0.052810
+
+-- doc: 304
+topic 3: 0.319455
+topic 5: 0.203758
+topic 9: 0.202284
+topic 8: 0.106485
+topic 7: 0.097642
+
+-- doc: 305
+topic 7: 0.540919
+topic 2: 0.181802
+topic 6: 0.144855
+topic 8: 0.070615
+topic 4: 0.059910
+
+-- doc: 306
+topic 1: 0.539387
+topic 5: 0.188549
+topic 7: 0.122903
+topic 8: 0.081327
+topic 4: 0.060904
+
+-- doc: 307
+topic 5: 0.765272
+topic 0: 0.127615
+topic 8: 0.063180
+topic 7: 0.022176
+topic 1: 0.010460
+
+-- doc: 308
+topic 0: 0.606025
+topic 5: 0.199139
+topic 8: 0.109937
+topic 2: 0.069249
+topic 1: 0.012128
+
+-- doc: 309
+topic 5: 0.362797
+topic 1: 0.213281
+topic 3: 0.182498
+topic 9: 0.148197
+topic 7: 0.054090
+
+-- doc: 310
+topic 5: 0.391782
+topic 7: 0.233116
+topic 0: 0.212775
+topic 8: 0.095606
+topic 9: 0.035395
+
+-- doc: 311
+topic 9: 0.501885
+topic 6: 0.224788
+topic 4: 0.173893
+topic 7: 0.073987
+topic 2: 0.013666
+
+-- doc: 312
+topic 7: 0.405254
+topic 0: 0.383721
+topic 2: 0.147717
+topic 5: 0.060724
+topic 1: 0.000431
+
+-- doc: 313
+topic 9: 0.464286
+topic 1: 0.191615
+topic 4: 0.190373
+topic 5: 0.067391
+topic 6: 0.050621
+
+-- doc: 314
+topic 2: 0.340008
+topic 8: 0.238177
+topic 7: 0.234363
+topic 3: 0.087529
+topic 1: 0.053966
+
+-- doc: 315
+topic 0: 0.927483
+topic 6: 0.046558
+topic 7: 0.016648
+topic 2: 0.004233
+topic 9: 0.001975
+
+-- doc: 316
+topic 2: 0.336010
+topic 7: 0.226965
+topic 6: 0.157650
+topic 0: 0.141589
+topic 4: 0.133136
+
+-- doc: 317
+topic 8: 0.486571
+topic 4: 0.420322
+topic 1: 0.047896
+topic 0: 0.024620
+topic 2: 0.014772
+
+-- doc: 318
+topic 1: 0.423416
+topic 4: 0.368320
+topic 9: 0.160606
+topic 3: 0.025069
+topic 5: 0.017906
+
+-- doc: 319
+topic 1: 0.308353
+topic 2: 0.196386
+topic 3: 0.180391
+topic 4: 0.134775
+topic 9: 0.090936
+
+-- doc: 320
+topic 2: 0.349925
+topic 1: 0.294536
+topic 4: 0.234656
+topic 8: 0.058757
+topic 9: 0.045284
+
+-- doc: 321
+topic 3: 0.302642
+topic 5: 0.273893
+topic 8: 0.188423
+topic 4: 0.127817
+topic 9: 0.093629
+
+-- doc: 322
+topic 9: 0.488749
+topic 1: 0.422338
+topic 6: 0.056806
+topic 2: 0.019484
+topic 3: 0.010703
+
+-- doc: 323
+topic 2: 0.781525
+topic 7: 0.211632
+topic 3: 0.001466
+topic 6: 0.001466
+topic 8: 0.001466
+
+-- doc: 324
+topic 4: 0.449045
+topic 3: 0.193358
+topic 8: 0.163330
+topic 1: 0.145132
+topic 9: 0.026843
+
+-- doc: 325
+topic 5: 0.339330
+topic 3: 0.274814
+topic 9: 0.143300
+topic 4: 0.140819
+topic 6: 0.097395
+
+-- doc: 326
+topic 3: 0.464838
+topic 9: 0.443972
+topic 6: 0.043663
+topic 4: 0.036708
+topic 1: 0.006569
+
+-- doc: 327
+topic 1: 0.658854
+topic 4: 0.117188
+topic 5: 0.108507
+topic 9: 0.057581
+topic 3: 0.048322
+
+-- doc: 328
+topic 6: 0.538790
+topic 2: 0.144313
+topic 8: 0.124589
+topic 1: 0.092373
+topic 7: 0.080539
+
+-- doc: 329
+topic 0: 0.685507
+topic 8: 0.196618
+topic 5: 0.099034
+topic 9: 0.009179
+topic 1: 0.003382
+
+-- doc: 330
+topic 1: 0.614004
+topic 9: 0.297326
+topic 8: 0.075651
+topic 3: 0.009500
+topic 5: 0.001056
+
+-- doc: 331
+topic 1: 0.316740
+topic 9: 0.281342
+topic 5: 0.189897
+topic 4: 0.175885
+topic 3: 0.032080
+
+-- doc: 332
+topic 8: 0.393255
+topic 0: 0.376565
+topic 2: 0.131085
+topic 3: 0.062239
+topic 6: 0.019819
+
+-- doc: 333
+topic 5: 0.569616
+topic 0: 0.280091
+topic 7: 0.122642
+topic 1: 0.022446
+topic 3: 0.002277
+
+-- doc: 334
+topic 7: 0.496230
+topic 0: 0.221018
+topic 8: 0.149387
+topic 5: 0.100377
+topic 9: 0.024034
+
+-- doc: 335
+topic 0: 0.770106
+topic 5: 0.223824
+topic 1: 0.000759
+topic 2: 0.000759
+topic 3: 0.000759
+
+-- doc: 336
+topic 4: 0.612528
+topic 6: 0.210428
+topic 1: 0.088897
+topic 9: 0.085896
+topic 0: 0.000375
+
+-- doc: 337
+topic 6: 0.313455
+topic 9: 0.159518
+topic 4: 0.157168
+topic 1: 0.113690
+topic 3: 0.099001
+
+-- doc: 338
+topic 5: 0.436186
+topic 0: 0.218637
+topic 2: 0.165700
+topic 7: 0.147571
+topic 8: 0.021392
+
+-- doc: 339
+topic 5: 0.307507
+topic 0: 0.275826
+topic 3: 0.126377
+topic 8: 0.124311
+topic 2: 0.067837
+
+-- doc: 340
+topic 4: 0.337276
+topic 1: 0.250816
+topic 8: 0.204323
+topic 5: 0.127651
+topic 2: 0.053426
+
+-- doc: 341
+topic 9: 0.410662
+topic 6: 0.261397
+topic 2: 0.228309
+topic 7: 0.034926
+topic 8: 0.032721
+
+-- doc: 342
+topic 4: 0.415059
+topic 6: 0.265005
+topic 1: 0.234995
+topic 2: 0.040461
+topic 9: 0.032958
+
+-- doc: 343
+topic 1: 0.307295
+topic 8: 0.252925
+topic 4: 0.206125
+topic 3: 0.122849
+topic 7: 0.056779
+
+-- doc: 344
+topic 4: 0.426539
+topic 1: 0.329252
+topic 8: 0.176373
+topic 9: 0.049967
+topic 2: 0.014891
+
+-- doc: 345
+topic 1: 0.498948
+topic 9: 0.402174
+topic 4: 0.092917
+topic 3: 0.001753
+topic 8: 0.001753
+
+-- doc: 346
+topic 1: 0.333461
+topic 4: 0.321182
+topic 3: 0.238296
+topic 7: 0.080200
+topic 9: 0.024942
+
+-- doc: 347
+topic 4: 0.386804
+topic 5: 0.226079
+topic 7: 0.139775
+topic 8: 0.133521
+topic 0: 0.034084
+
+-- doc: 348
+topic 5: 0.341161
+topic 2: 0.256618
+topic 3: 0.232707
+topic 0: 0.077284
+topic 1: 0.038002
+
+-- doc: 349
+topic 0: 0.441937
+topic 2: 0.174789
+topic 5: 0.153129
+topic 7: 0.141697
+topic 4: 0.046029
+
+-- doc: 350
+topic 4: 0.274219
+topic 7: 0.234187
+topic 1: 0.215773
+topic 8: 0.089271
+topic 6: 0.054844
+
+-- doc: 351
+topic 5: 0.265027
+topic 6: 0.255191
+topic 9: 0.216940
+topic 4: 0.167760
+topic 1: 0.051913
+
+-- doc: 352
+topic 4: 0.445557
+topic 6: 0.165941
+topic 7: 0.145906
+topic 2: 0.084930
+topic 3: 0.079704
+
+-- doc: 353
+topic 4: 0.425623
+topic 1: 0.236894
+topic 3: 0.130079
+topic 9: 0.097969
+topic 5: 0.047510
+
+-- doc: 354
+topic 3: 0.345350
+topic 1: 0.198450
+topic 4: 0.174191
+topic 6: 0.109501
+topic 9: 0.094677
+
+-- doc: 355
+topic 1: 0.591671
+topic 4: 0.322247
+topic 9: 0.075182
+topic 6: 0.009223
+topic 0: 0.000279
+
+-- doc: 356
+topic 1: 0.316006
+topic 4: 0.279255
+topic 9: 0.175290
+topic 7: 0.110010
+topic 3: 0.049565
+
+-- doc: 357
+topic 1: 0.348546
+topic 4: 0.253212
+topic 2: 0.098377
+topic 7: 0.088911
+topic 3: 0.087559
+
+-- doc: 358
+topic 5: 0.389505
+topic 3: 0.204352
+topic 7: 0.187287
+topic 8: 0.175341
+topic 0: 0.026877
+
+-- doc: 359
+topic 0: 0.886334
+topic 8: 0.072215
+topic 7: 0.029469
+topic 2: 0.007448
+topic 1: 0.001619
+
+-- doc: 360
+topic 1: 0.386007
+topic 4: 0.277474
+topic 9: 0.241297
+topic 3: 0.088396
+topic 6: 0.004437
+
+-- doc: 361
+topic 3: 0.365172
+topic 1: 0.347359
+topic 4: 0.137285
+topic 9: 0.088759
+topic 6: 0.031634
+
+-- doc: 362
+topic 1: 0.406989
+topic 9: 0.333946
+topic 4: 0.186810
+topic 6: 0.062270
+topic 2: 0.008671
+
+-- doc: 363
+topic 7: 0.400090
+topic 4: 0.253375
+topic 1: 0.155266
+topic 3: 0.062556
+topic 9: 0.058056
+
+-- doc: 364
+topic 7: 0.526281
+topic 0: 0.241130
+topic 3: 0.078187
+topic 6: 0.075558
+topic 2: 0.074244
+
+-- doc: 365
+topic 9: 0.501218
+topic 7: 0.377029
+topic 3: 0.061282
+topic 2: 0.053166
+topic 8: 0.002841
+
+-- doc: 366
+topic 6: 0.888451
+topic 4: 0.042432
+topic 9: 0.023185
+topic 8: 0.019685
+topic 3: 0.017060
+
+-- doc: 367
+topic 0: 0.848571
+topic 7: 0.077143
+topic 6: 0.053651
+topic 8: 0.014286
+topic 3: 0.004762
+
+-- doc: 368
+topic 5: 0.654871
+topic 3: 0.222603
+topic 1: 0.076484
+topic 9: 0.023973
+topic 7: 0.015601
+
+-- doc: 369
+topic 4: 0.270959
+topic 5: 0.255402
+topic 0: 0.173293
+topic 8: 0.117978
+topic 2: 0.090320
+
+-- doc: 370
+topic 8: 0.565554
+topic 5: 0.380700
+topic 7: 0.049267
+topic 1: 0.002036
+topic 0: 0.000407
+
+-- doc: 371
+topic 5: 0.571171
+topic 2: 0.213512
+topic 4: 0.120489
+topic 6: 0.041901
+topic 9: 0.040297
+
+-- doc: 372
+topic 5: 0.628254
+topic 0: 0.302833
+topic 4: 0.047090
+topic 1: 0.012634
+topic 8: 0.003446
+
+-- doc: 373
+topic 1: 0.314603
+topic 9: 0.282222
+topic 4: 0.164762
+topic 2: 0.146349
+topic 3: 0.064444
+
+-- doc: 374
+topic 0: 0.388827
+topic 5: 0.309096
+topic 8: 0.171533
+topic 2: 0.094048
+topic 6: 0.034531
+
+-- doc: 375
+topic 6: 0.415240
+topic 8: 0.141402
+topic 3: 0.138142
+topic 2: 0.098207
+topic 4: 0.098207
+
+-- doc: 376
+topic 1: 0.382784
+topic 4: 0.379853
+topic 9: 0.166667
+topic 3: 0.061905
+topic 6: 0.004762
+
+-- doc: 377
+topic 5: 0.524066
+topic 1: 0.225311
+topic 9: 0.181328
+topic 7: 0.027801
+topic 2: 0.025311
+
+-- doc: 378
+topic 3: 0.450949
+topic 6: 0.196519
+topic 9: 0.144620
+topic 7: 0.127532
+topic 1: 0.061709
+
+-- doc: 379
+topic 4: 0.310378
+topic 9: 0.296284
+topic 3: 0.253363
+topic 1: 0.044523
+topic 8: 0.042601
+
+-- doc: 380
+topic 5: 0.384963
+topic 4: 0.233772
+topic 1: 0.101479
+topic 3: 0.084224
+topic 8: 0.063681
+
+-- doc: 381
+topic 5: 0.466335
+topic 7: 0.202372
+topic 1: 0.144223
+topic 4: 0.139633
+topic 2: 0.021041
+
+-- doc: 382
+topic 4: 0.295185
+topic 1: 0.281332
+topic 8: 0.280013
+topic 6: 0.123021
+topic 7: 0.010224
+
+-- doc: 383
+topic 5: 0.701586
+topic 0: 0.115609
+topic 1: 0.098915
+topic 8: 0.028798
+topic 4: 0.022955
+
+-- doc: 384
+topic 7: 0.844718
+topic 2: 0.097905
+topic 3: 0.028689
+topic 0: 0.025046
+topic 8: 0.001366
+
+-- doc: 385
+topic 1: 0.334047
+topic 4: 0.245602
+topic 9: 0.155254
+topic 2: 0.106752
+topic 3: 0.104850
+
+-- doc: 386
+topic 5: 0.253492
+topic 7: 0.218981
+topic 1: 0.207477
+topic 4: 0.172966
+topic 3: 0.076007
+
+-- doc: 387
+topic 5: 0.383955
+topic 3: 0.228731
+topic 4: 0.160821
+topic 1: 0.090672
+topic 2: 0.066791
+
+-- doc: 388
+topic 0: 0.988586
+topic 5: 0.006403
+topic 4: 0.002506
+topic 1: 0.000835
+topic 2: 0.000278
+
+-- doc: 389
+topic 0: 0.299257
+topic 5: 0.217472
+topic 8: 0.154275
+topic 6: 0.137175
+topic 4: 0.093309
+
+-- doc: 390
+topic 4: 0.529294
+topic 9: 0.355136
+topic 1: 0.077448
+topic 3: 0.018058
+topic 7: 0.016453
+
+-- doc: 391
+topic 5: 0.375965
+topic 6: 0.315154
+topic 2: 0.198359
+topic 7: 0.044884
+topic 4: 0.037162
+
+-- doc: 392
+topic 1: 0.710741
+topic 9: 0.119661
+topic 8: 0.093279
+topic 4: 0.073807
+topic 2: 0.000942
+
+-- doc: 393
+topic 2: 0.508821
+topic 6: 0.283480
+topic 4: 0.117482
+topic 0: 0.063753
+topic 1: 0.010826
+
+-- doc: 394
+topic 6: 0.951225
+topic 9: 0.034839
+topic 2: 0.012254
+topic 0: 0.000240
+topic 1: 0.000240
+
+-- doc: 395
+topic 9: 0.769591
+topic 6: 0.178450
+topic 1: 0.047274
+topic 7: 0.002129
+topic 0: 0.000426
+
+-- doc: 396
+topic 3: 0.712048
+topic 1: 0.100803
+topic 0: 0.083936
+topic 5: 0.050201
+topic 7: 0.046185
+
+-- doc: 397
+topic 2: 0.302313
+topic 6: 0.223018
+topic 9: 0.149229
+topic 4: 0.108480
+topic 7: 0.084251
+
+-- doc: 398
+topic 1: 0.475100
+topic 5: 0.418876
+topic 3: 0.051807
+topic 4: 0.029317
+topic 7: 0.013253
+
+-- doc: 399
+topic 1: 0.649875
+topic 4: 0.202441
+topic 9: 0.084793
+topic 8: 0.045995
+topic 7: 0.009700
+
+-- doc: 400
+topic 8: 0.431803
+topic 7: 0.222623
+topic 0: 0.133443
+topic 5: 0.122951
+topic 4: 0.061311
+
+-- doc: 401
+topic 3: 0.493771
+topic 4: 0.188953
+topic 7: 0.173173
+topic 1: 0.135797
+topic 6: 0.003738
+
+-- doc: 402
+topic 1: 0.589119
+topic 4: 0.222904
+topic 8: 0.084039
+topic 9: 0.054826
+topic 3: 0.022227
+
+-- doc: 403
+topic 8: 0.637081
+topic 0: 0.321857
+topic 2: 0.017372
+topic 1: 0.011055
+topic 6: 0.006001
+
+-- doc: 404
+topic 2: 0.628182
+topic 8: 0.164545
+topic 6: 0.152424
+topic 0: 0.049394
+topic 4: 0.003939
+
+-- doc: 405
+topic 7: 0.406250
+topic 3: 0.222373
+topic 4: 0.150815
+topic 0: 0.148098
+topic 1: 0.042120
+
+-- doc: 406
+topic 5: 0.372558
+topic 3: 0.170698
+topic 2: 0.124186
+topic 6: 0.093488
+topic 7: 0.087907
+
+-- doc: 407
+topic 3: 0.348552
+topic 9: 0.329993
+topic 6: 0.176318
+topic 7: 0.140683
+topic 4: 0.002598
+
+-- doc: 408
+topic 6: 0.404881
+topic 9: 0.224656
+topic 1: 0.184606
+topic 3: 0.178348
+topic 7: 0.003129
+
+-- doc: 409
+topic 5: 0.317097
+topic 8: 0.267419
+topic 0: 0.238387
+topic 2: 0.071290
+topic 6: 0.060323
+
+-- doc: 410
+topic 0: 0.568358
+topic 8: 0.158915
+topic 4: 0.099718
+topic 2: 0.060254
+topic 7: 0.050388
+
+-- doc: 411
+topic 7: 0.670497
+topic 6: 0.274648
+topic 4: 0.028540
+topic 3: 0.023351
+topic 2: 0.001112
+
+-- doc: 412
+topic 1: 0.882515
+topic 4: 0.113804
+topic 9: 0.001534
+topic 0: 0.000307
+topic 2: 0.000307
+
+-- doc: 413
+topic 4: 0.368377
+topic 1: 0.302424
+topic 9: 0.198703
+topic 3: 0.103439
+topic 7: 0.017193
+
+-- doc: 414
+topic 5: 0.339315
+topic 7: 0.264771
+topic 1: 0.172004
+topic 3: 0.064329
+topic 8: 0.054942
+
+-- doc: 415
+topic 5: 0.555346
+topic 9: 0.120126
+topic 8: 0.112579
+topic 2: 0.091195
+topic 3: 0.055975
+
+-- doc: 416
+topic 7: 0.301132
+topic 2: 0.291492
+topic 5: 0.166597
+topic 9: 0.147737
+topic 1: 0.045893
+
+-- doc: 417
+topic 7: 0.387673
+topic 6: 0.281682
+topic 2: 0.131912
+topic 0: 0.123848
+topic 5: 0.054724
+
+-- doc: 418
+topic 2: 0.434278
+topic 5: 0.333763
+topic 7: 0.114691
+topic 4: 0.061426
+topic 6: 0.025344
+
+-- doc: 419
+topic 2: 0.503625
+topic 6: 0.318127
+topic 0: 0.078852
+topic 8: 0.050453
+topic 5: 0.025680
+
+-- doc: 420
+topic 7: 0.308872
+topic 5: 0.220149
+topic 0: 0.143035
+topic 6: 0.114842
+topic 2: 0.093284
+
+-- doc: 421
+topic 6: 0.506916
+topic 2: 0.282388
+topic 9: 0.123329
+topic 4: 0.047718
+topic 7: 0.014523
+
+-- doc: 422
+topic 1: 0.685507
+topic 4: 0.113743
+topic 5: 0.101079
+topic 9: 0.062148
+topic 7: 0.029315
+
+-- doc: 423
+topic 9: 0.424690
+topic 2: 0.208173
+topic 6: 0.150407
+topic 3: 0.096491
+topic 4: 0.074668
+
+-- doc: 424
+topic 2: 0.265267
+topic 7: 0.238550
+topic 4: 0.223282
+topic 5: 0.211069
+topic 3: 0.024046
+
+-- doc: 425
+topic 5: 0.480439
+topic 0: 0.339218
+topic 8: 0.097805
+topic 7: 0.078721
+topic 6: 0.001431
+
+-- doc: 426
+topic 0: 0.492169
+topic 8: 0.319890
+topic 7: 0.092013
+topic 5: 0.088880
+topic 3: 0.002741
+
+-- doc: 427
+topic 1: 0.675570
+topic 9: 0.267450
+topic 4: 0.030271
+topic 6: 0.021724
+topic 2: 0.001781
+
+-- doc: 428
+topic 8: 0.420188
+topic 1: 0.355314
+topic 4: 0.175203
+topic 6: 0.027529
+topic 3: 0.008323
+
+-- doc: 429
+topic 8: 0.395382
+topic 5: 0.357681
+topic 4: 0.212535
+topic 0: 0.021206
+topic 1: 0.010839
+
+-- doc: 430
+topic 0: 0.451385
+topic 7: 0.253267
+topic 2: 0.085991
+topic 4: 0.080240
+topic 5: 0.072399
+
+-- doc: 431
+topic 2: 0.447002
+topic 6: 0.290685
+topic 9: 0.223233
+topic 4: 0.028373
+topic 1: 0.006959
+
+-- doc: 432
+topic 4: 0.385647
+topic 8: 0.292587
+topic 9: 0.139590
+topic 1: 0.065457
+topic 3: 0.057571
+
+-- doc: 433
+topic 0: 0.533306
+topic 7: 0.371649
+topic 2: 0.075142
+topic 4: 0.015028
+topic 8: 0.002843
+
+-- doc: 434
+topic 4: 0.294723
+topic 3: 0.188283
+topic 7: 0.177549
+topic 5: 0.170394
+topic 9: 0.124776
+
+-- doc: 435
+topic 1: 0.527794
+topic 4: 0.418935
+topic 6: 0.025767
+topic 9: 0.009554
+topic 8: 0.008396
+
+-- doc: 436
+topic 1: 0.662292
+topic 4: 0.159731
+topic 3: 0.089949
+topic 9: 0.074584
+topic 5: 0.010563
+
+-- doc: 437
+topic 1: 0.456970
+topic 9: 0.319701
+topic 4: 0.146871
+topic 3: 0.040896
+topic 8: 0.029516
+
+-- doc: 438
+topic 3: 0.776475
+topic 7: 0.138805
+topic 4: 0.036687
+topic 1: 0.033661
+topic 2: 0.010212
+
+-- doc: 439
+topic 0: 0.578161
+topic 5: 0.136782
+topic 8: 0.093103
+topic 4: 0.056322
+topic 7: 0.053257
+
+-- doc: 440
+topic 4: 0.430043
+topic 1: 0.238281
+topic 2: 0.104759
+topic 3: 0.100497
+topic 6: 0.054332
+
+-- doc: 441
+topic 7: 0.420129
+topic 0: 0.192335
+topic 5: 0.136461
+topic 2: 0.123567
+topic 8: 0.119986
+
+-- doc: 442
+topic 5: 0.501543
+topic 0: 0.210802
+topic 2: 0.085494
+topic 7: 0.068210
+topic 9: 0.063272
+
+-- doc: 443
+topic 0: 0.678440
+topic 7: 0.223394
+topic 2: 0.050000
+topic 6: 0.029817
+topic 8: 0.010550
+
+-- doc: 444
+topic 2: 0.323137
+topic 9: 0.248610
+topic 8: 0.177419
+topic 3: 0.117353
+topic 7: 0.099555
+
+-- doc: 445
+topic 5: 0.741857
+topic 0: 0.111920
+topic 2: 0.095981
+topic 7: 0.046085
+topic 8: 0.002426
+
+-- doc: 446
+topic 1: 0.602825
+topic 9: 0.229968
+topic 4: 0.136406
+topic 3: 0.028949
+topic 5: 0.000695
+
+-- doc: 447
+topic 8: 0.444807
+topic 4: 0.442433
+topic 6: 0.061424
+topic 9: 0.042433
+topic 2: 0.005638
+
+-- doc: 448
+topic 2: 0.525067
+topic 5: 0.250334
+topic 6: 0.144051
+topic 4: 0.047794
+topic 0: 0.022393
+
+-- doc: 449
+topic 5: 0.618822
+topic 3: 0.161409
+topic 9: 0.135121
+topic 7: 0.034175
+topic 2: 0.029968
+
+-- doc: 450
+topic 8: 0.442631
+topic 3: 0.241138
+topic 0: 0.142257
+topic 7: 0.101213
+topic 5: 0.069496
+
+-- doc: 451
+topic 6: 0.408220
+topic 5: 0.234238
+topic 2: 0.174381
+topic 9: 0.124102
+topic 8: 0.054669
+
+-- doc: 452
+topic 4: 0.446451
+topic 3: 0.153042
+topic 8: 0.125792
+topic 1: 0.085868
+topic 9: 0.071926
+
+-- doc: 453
+topic 1: 0.387695
+topic 4: 0.280924
+topic 3: 0.160482
+topic 9: 0.081706
+topic 8: 0.047201
+
+-- doc: 454
+topic 5: 0.396805
+topic 8: 0.243955
+topic 6: 0.116149
+topic 7: 0.074698
+topic 2: 0.062608
+
+-- doc: 455
+topic 5: 0.375097
+topic 7: 0.313033
+topic 3: 0.125291
+topic 8: 0.112102
+topic 1: 0.056245
+
+-- doc: 456
+topic 0: 0.379724
+topic 2: 0.299782
+topic 7: 0.179142
+topic 6: 0.057049
+topic 9: 0.042515
+
+-- doc: 457
+topic 1: 0.512061
+topic 9: 0.379916
+topic 3: 0.095700
+topic 4: 0.008652
+topic 2: 0.001311
+
+-- doc: 458
+topic 4: 0.428443
+topic 1: 0.176488
+topic 6: 0.122971
+topic 9: 0.098918
+topic 7: 0.071257
+
+-- doc: 459
+topic 1: 0.672754
+topic 9: 0.175150
+topic 7: 0.075150
+topic 4: 0.061377
+topic 3: 0.009281
+
+-- doc: 460
+topic 7: 0.279876
+topic 8: 0.189904
+topic 9: 0.158310
+topic 4: 0.156937
+topic 6: 0.142514
+
+-- doc: 461
+topic 1: 0.399692
+topic 9: 0.302904
+topic 4: 0.170040
+topic 6: 0.098328
+topic 7: 0.013858
+
+-- doc: 462
+topic 0: 0.446498
+topic 8: 0.373865
+topic 5: 0.113165
+topic 7: 0.055447
+topic 4: 0.007458
+
+-- doc: 463
+topic 7: 0.323112
+topic 9: 0.259199
+topic 3: 0.173983
+topic 1: 0.144287
+topic 0: 0.034538
+
+-- doc: 464
+topic 3: 0.496098
+topic 7: 0.186829
+topic 1: 0.167317
+topic 4: 0.105854
+topic 9: 0.028780
+
+-- doc: 465
+topic 4: 0.332554
+topic 7: 0.234331
+topic 5: 0.191300
+topic 8: 0.162301
+topic 3: 0.066885
+
+-- doc: 466
+topic 9: 0.354908
+topic 4: 0.320552
+topic 1: 0.224847
+topic 6: 0.070245
+topic 7: 0.015031
+
+-- doc: 467
+topic 5: 0.267681
+topic 3: 0.247122
+topic 1: 0.187911
+topic 2: 0.151727
+topic 4: 0.074424
+
+-- doc: 468
+topic 3: 0.434097
+topic 1: 0.244121
+topic 9: 0.214418
+topic 4: 0.093131
+topic 2: 0.011448
+
+-- doc: 469
+topic 8: 0.316933
+topic 5: 0.288564
+topic 6: 0.164450
+topic 0: 0.112145
+topic 7: 0.058954
+
+-- doc: 470
+topic 7: 0.688412
+topic 0: 0.112561
+topic 2: 0.100177
+topic 6: 0.097523
+topic 1: 0.000221
+
+-- doc: 471
+topic 2: 0.622802
+topic 5: 0.159862
+topic 6: 0.110239
+topic 8: 0.049937
+topic 1: 0.036118
+
+-- doc: 472
+topic 7: 0.471397
+topic 8: 0.406898
+topic 2: 0.042905
+topic 1: 0.034492
+topic 4: 0.033371
+
+-- doc: 473
+topic 3: 0.316378
+topic 4: 0.306999
+topic 9: 0.181457
+topic 7: 0.134560
+topic 1: 0.039322
+
+-- doc: 474
+topic 7: 0.692136
+topic 0: 0.183646
+topic 4: 0.071046
+topic 2: 0.031725
+topic 6: 0.018320
+
+-- doc: 475
+topic 6: 0.645017
+topic 2: 0.310997
+topic 4: 0.021649
+topic 9: 0.018900
+topic 0: 0.001718
+
+-- doc: 476
+topic 1: 0.767057
+topic 4: 0.215122
+topic 9: 0.009929
+topic 3: 0.003819
+topic 2: 0.002800
+time = 633.340283
+

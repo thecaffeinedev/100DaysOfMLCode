@@ -1,0 +1,96 @@
+1,f922af88b77076517087ee2932d5f48f,Stereophonics - C'est La Vie.mp3
+2,af924a7d7e7513d10ad61b9dd58a71e4,Felix Jaehn,Polina - Book of Love.mp3
+3,f603b45b584194ba62c7a2109d9926fb,Blur - Song 2.mp3
+4,a70603c731d4ed752bc55fd9d7f000d2,Lana Del Rey - TV in Black & White.mp3
+5,f3bb3264a7ddab6e073c0be8a01e23ef,Danelle,Salda - Nobody.mp3
+6,105cc658416e799fcbeb7f38c7a12a70,Kiso,Rossy - Tidal Wave.mp3
+7,18e0650d2bf4bc2956345cbc8ff9a5d6,Blur - Coffee & TV.mp3
+8,e03a1ef485b297e01eba7543224b64db,Scorpions - Still Loving You.mp3
+9,4db854dd9ff28b70555d436f27251bdb,The Diner - Aggressive Michael.mp3
+10,103b3a6d1f324ba20a32219fb82a69cf,Daisuke Miyatani - anohi.mp3
+11,a149916d6a5af5afb549f0adc3caf402,Coldplay - Everglow.mp3
+12,0ab7e481e2b6fdc90d46fd6495607194,twenty one pilots - Tear In My Heart.mp3
+13,381cba5f3357dafd49b041e5e40f757d,Dj Markino,Alan Walker,Eminem - Lose Yourself (Markino Faded Remix).mp3
+14,0f9a6106a35946ddef94f76691c9b0f4,Kozoro,Evence - Dreaming.mp3
+15,6ebf8984f1e474b45ae8abb3758242b0,a_hisa - Town of Windmill.mp3
+16,e920e2868ae2b47b747da432b2008261,Isaac Shepard - Before Dawn.mp3
+17,f3c61ab0134ba9c6d80895fb880efc97,Laura Welsh - Still Life.mp3
+18,285fd786e08f3feb2b672a5607d3f6c3,Tobu - Life.mp3
+19,ffb5be0c0f0bd0718e80f40b2deb4a2a,John Newman - Love Me Again.mp3
+20,89aa4124d05d59c34b8b87418d01639a,Nunu - chocolat.mp3
+21,0eaa42bff7932d1f02df594b517e4924,Radiohead - No Surprises.mp3
+22,c33f223d29dab2ae6c4912a6a14fe1a2,Arctic Monkeys - Fluorescent Adolescent.mp3
+23,0ed311ca7bb3e36f26c20204ae5da409,The Libertines - Music When The Lights Go Out.mp3
+24,ad4411ec460003e10c986f77f6c1eb91,Myrne,Linying - Silver City.mp3
+25,0129cf9ecb68867902bae43a6c138144,Alok,Bruno Martini,Zeeba - Hear Me Now.mp3
+26,5ddd36142811f7b22bd5d8a31edb6c26,Dan Gibson - No Place I's Rather Be.mp3
+27,d95bdc839fac5420210171acccdb8f33,Axero,Alex Hackett - One More Step.mp3
+28,5ddce70420e48a0252b243b2229789d5,Capo Productions - 4U.mp3
+29,0cc5857763d752a5016f4a3afb7d12a8,Musette - 24 Maj.mp3
+30,28d5970befc6098c11ff58e476b6a078,Carla Bruni - you belong to me.mp3
+31,3f443b80c8a14891c6926f552951c666,Lily Allen - Who'd Have Known.mp3
+32,12865e36bfb6d6ef1b3482a659901eef,Ed Sheeran - Don't.mp3
+33,9c47d77e9a2151acacf09905a855271c,Levi,Tom Villon - Take Me Home.mp3
+34,bfb7b6a8e769589d70d3038aa5d60024,Felix Jaehn,Jasmine Thompson - Ain't Nobody (Loves Me Better) [feat. Jasmine Thompson].mp3
+35,ad36ad899c122f2b85c1e2a82aa21cf6,Travis - Closer.mp3
+36,ee4d99c3f9c16338e7b7d19e6fbe84f8,Coldplay - Yellow.mp3
+37,1e4672c2e0f9af82fbe2436c5cc6e4ec,twenty one pilots - Stressed Out.mp3
+38,462505ba1b5cb21bdeaad6d9aa92d7e4,Coldplay - The Scientist.mp3
+39,4b766a3e1d97a6b624cceabb9885ee5d,Campsite Dream - Crush.mp3
+40,51f2f2243857aec36341eee5cb75190b,Eric Clapton - Tears in Heaven.mp3
+41,c856a81f874ef0dfe21a8037df197bed,Dan Gibson - Morning Light.mp3
+42,4fabfc0cad8742ac1690e232a9be6a97,AGA-Wonderful_U-Demo_Version.mp3
+43,fedca57222bd343fd46bdf322a6bd127,Niykee Heaton - Bad Intension.mp3
+44,a302ca72da3bcc633b3540ae44e285ca,Ed Sheeran - Photograph.mp3
+45,8d6928ab888361577661d1335a13bde4,Arctic Monkeys - Mardy Bum.mp3
+46,7e9fb9797559a89cf0926b757afef96c,Muse - Supermassive Black Hole.mp3
+47,3e83543cfe51fb9c663bb188bc65f23b,Lights & Motion - Melting Ice.mp3
+48,a6820f5d08a950eaf80d04e05b1580d2,U2 - With Or Without You.mp3
+49,08a9c86632a50a85ce47a96b9da7bfc8,Muse - Can't Take My Eyes Off You.mp3
+50,7d7568f23847a4a5c6ddd54a3ee0ccce,Vexento - Masked Heroes.mp3
+51,3ef9ff75c640c99c0bd1aea5b368e6aa,Slo - Nothing Hurts Like This.mp3
+52,2b8d6af8da74be2e288fbf01acb1134a,Dan Gibson - Nesting.mp3
+53,3be96ae1d0d340a152876df9baf51ed9,Alesso - Heroes (we could be) [feat. Tove Lo].mp3
+54,6004b60b67b84df132f612a0d70a9f3f,Avril Lavigne - Keep Holding On.mp3
+55,5fef26a25840d4fe9565eddc7a225030,Eminem - Not Afraid.mp3
+56,ea2c8654849dc274e11de299108b46c1,Radiohead - Creep.mp3
+57,3a727e5bd984b0c1ad9952bd72574188,Mark Isham - Building A Family.mp3
+58,d1d234dab098744fa93759c64f6b9591,Purple Disco Machine - Street Life.mp3
+59,a57921e46f637d4e437e66b10d594a6f,Nirvana - Smells Like Teen Spirit.mp3
+60,bcadf260d40cd936cd6837ef863df0b5,Eminem,Rihanna - Love The Way You Lie.mp3
+61,9eea75d4fa71e3aca330ba131c849da7,Stanton Lanier - Awaken the Dawn.mp3
+62,58f7ddb2e3279396318e5a5a7a2d65da,Niykee Heaton - Skin Tight.mp3
+63,fe2daea968eca95b9f15dd3fa51029e6,Lovebugs - Everybody Knows I LoveYou (Radio Edit).mp3
+64,7ad596e2e66c20f2d7f0b11d51e351a5,Danelle - Numb.mp3
+65,36715a131d96bd741757db4cd2dfd46f,Foster The People - Pumped Up Kicks.mp3
+66,0641b58cd9005ed6662c393a1565e3ed,The Strokes - You Only Live Once.mp3
+67,f4284aca55dcd47e8e9034b228bb14b6,Hattler - So Slow.mp3
+68,270dc944568ec8e8f3c67d8ed9788ef4,Cocolores - Take Your Shirt Off.mp3
+69,5e7de2308eedbe13c5ca4b4fd108d4ff,Piano Master - Bamboo.mp3
+70,fcd98a1701d02a60c44eeb88587d69a7,Niazura - Sad Ending.mp3
+71,03ec7fad839fb6892a3608041cb3921d,Caught a Ghost - Sleeping At Night.mp3
+72,dcd9b4776430ad77afbbb7b4f056b3ed,The XX - Fiction (1).mp3
+73,3474b6036cb848b2af42ebb96bd7ab6c,The Chainsmokers,Daya - Don't Let Me Down.mp3
+74,da5c7e6ea394c6e42d45954f97b08667,Alan Walker - Fade.mp3
+75,024b8b49999b0842de48f394e3bc8082,Daniela Andrade - Crazy.mp3
+76,321d6bdf64721fdfb02eca2a56cb4aeb,Danelle - Paradise.mp3
+77,94faba73bf9d8f704255a396985fe7a6,Shawn Mendes - Stitches.mp3
+78,63560267e3e00aaf4a046ffeed32f27b,Halsey - Gasoline.mp3
+79,40a2820aa4411f8b5b69bf8783f39317,Norah Jones - Wake Me Up.mp3
+80,c042daa71c485d5221366bf1f6124ec7,Chet Porter - Awakening.mp3
+81,0386ee9f205b47b24cc17f5908ae23a9,Felix Jaehn,Feddy Verano,Linying - Shine.mp3
+82,1dd1d6d38d6d896281ecf4d4db43e503,Guns N' Roses - Don't Cry (Original).mp3
+83,92e86da1ea35d3b398e41b0fef0c533e,Pink Floyd - Wish You Were Here.mp3
+84,b0761af9854d042d251e0d6ad2780c7e,Sixteen Cities - Glorious.mp3
+85,66e3f425f63b2ffd406e046ec025183c,Nirvana - Seasons In The Sun.mp3
+86,2393dc532bd297e0f1f2b7a1b113088f,Valentin - A Little Story.mp3
+87,5070038d85a694f75f3d0af836b07126,Marian Hill - One Time.mp3
+88,b4f9b309664729fb4005ab1595926ee2,Muse - Time Is Running Out.mp3
+89,89b91a827c2de9119b9bb433f38b6cf8,We Are the Fallen - I Will Stay.mp3
+90,7fd611d24324050018e09db894f343de,Barcelona - Slowly.mp3
+91,d7d4e9eced5c309f7f27919020bf0cde,The Chainsmokers,Halsey - Closer.mp3
+92,3e3628ffcf691e59e08511a2828123df,Marilyn Manson - Killing Strangers.mp3
+93,01d663633420c22e45fbfc315bce76f9,Lily Allen - Littlest Things.mp3
+94,064f7a8306791ecc5e0f24c034835340,Cat Power - The Greatest.mp3
+95,ee962f60fd3e0b86c58a074744342aee,Calvin Harris,Rihanna - This Is What You Came For.mp3
+96,e8731bc3cee6a857b7496a16173a799e,Daughtry - Learn My Lesson.mp3
