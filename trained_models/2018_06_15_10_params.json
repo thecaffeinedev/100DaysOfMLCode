@@ -1,0 +1,11 @@
+{
+    "dropout": 0.5,
+    "fc_activation": "tanh",
+    "fc_dim": 100,
+    "fc_n_layers": 2,
+    "max_word_seq_len": 42,
+    "n_labels": 2,
+    "word_embedding_dim": 100,
+    "word_lstm_size": 100,
+    "word_vocab_size": 2361
+}
