@@ -1,0 +1,77 @@
+{% load static %}
+<!DOCTYPE html>
+<html>
+<head>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css" integrity="sha384-rwoIResjU2yc3z8GV/NPeZWAv56rSmLldC3R/AZzGRnGxQQKnKkoFVhFQhNUwEyJ" crossorigin="anonymous">
+    <link rel="stylesheet" href="{% static 'interface/css/01_interface.css' %}">
+</head>
+
+
+<body>
+    <div class="container col-lg-6">
+        <div style="padding-bottom: 0.5cm">
+            <div class="card text-center bg-light">
+                <div class="card-body" style="padding-bottom: 0.2cm">
+                    <input class="card-title form-control" type="text" id="input" name="input" placeholder="Type in a sentence..."/>
+                    <button class="card-text btn btn-outline-primary" id="btn">Predict Sentiment</button>
+                    <div class="spinner" id="spinner" style="display: none">
+                      <div class="double-bounce1"></div>
+                      <div class="double-bounce2"></div>
+                    </div>
+                </div>
+                <div class="card-footer bg-white">
+                    <pre class="card-text api-pre" style="padding-bottom: 0.2cm">
+                        <div class="item" id="api_input">Example: I love Cape Town </div>
+                        <div class="item" id="api_output"> Sentiment: Positive! </div>
+                    </pre>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+
+<script type="text/javascript">
+	
+	function get_sentiment(text){
+		$('#btn').toggle();
+		$('#spinner').toggle();
+
+		$.ajax({
+			url: "http://127.0.0.1:8000/api/get_sentiment/",
+			method: 'POST',
+			contentType: 'application/json',
+			data: JSON.stringify({"input": text}),
+
+			success: function(response, status){
+				console.log("success")
+				console.log(response)
+				$('#btn').toggle();
+				$('#spinner').toggle();
+				$('#api_input').html(response.text);
+				$('#api_output').html(response.sentiment_score);
+				$('#input').val("");
+			},
+
+			error: function(response){
+				console.log("error")
+				$('#btn').toggle();
+				$('#spinner').toggle();
+				$('#api_input').html("An error occurred on the backend!");
+				$('#api_output').html("Try again....");
+			}
+		})
+
+	}
+
+	$(document).ready(function(){
+		$('#btn').click(function(){
+			var input = $("#input").val();
+			get_sentiment(input);
+			input = "";
+		})
+	})
+</script>
+
+
+</html>
