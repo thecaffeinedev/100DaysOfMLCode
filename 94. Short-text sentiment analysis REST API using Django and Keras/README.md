@@ -1,4 +1,4 @@
-# sentiment_api
+# Short-text sentiment analysis REST API using Django and Keras
 There are not many reference implementations of deploying deep learning models within the Django REST framework.
 
 The master branch contains a single view which loads a Bidirectional LSTM + MLP model to classify single sentences as positive or negative.The dev branch contains the work-in-progress scaleable API with message queuing and separate model server.
