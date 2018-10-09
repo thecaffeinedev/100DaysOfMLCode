@@ -4,3 +4,5 @@ Here’s a dataset that is designed to help showcase when a Recurrent Convolutio
 [The dataset is also on Kaggle](https://www.kaggle.com/zackakil/sliding-square-rcnn-toy-dataset)
 
 ![the data](images/box.gif)
+
+Credit: https://github.com/ZackAkil/understanding-recurrent-convolutional-neural-networks
