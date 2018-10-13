@@ -1,0 +1,19 @@
+apiVersion: apps/v1 
+kind: Deployment
+metadata:
+  name: lstm-deployment
+spec:
+  selector:
+    matchLabels:
+      app: lstm
+  replicas: 4 # Update the replicas from 2 to 4
+  template:
+    metadata:
+      labels:
+        app: lstm
+    spec:
+      containers:
+      - name: lstm
+        image: dagilgon/lstm
+        ports:
+        - containerPort: 5000

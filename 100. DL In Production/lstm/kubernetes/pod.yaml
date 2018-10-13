@@ -1,0 +1,10 @@
+apiVersion: v1
+kind: Pod
+metadata:
+  name: lstm
+spec:
+  containers:
+  - name: lstm-container
+    image: dagilgon/lstm
+  imagePullSecrets:
+  - name: regcred

@@ -1,0 +1,12 @@
+apiVersion: v1
+kind: Service              
+metadata:
+  name: lstm-lb
+spec:
+  type: LoadBalancer       
+  ports:
+  - port: 5000               
+    protocol: TCP          
+    targetPort: 5000         
+  selector:                
+    app: lstm      
