@@ -1,77 +1,34 @@
 # 100DaysOfMLCode
 Taking up the #100DaysOfMLCode Challange 
 
-# Warming Up ML Algorithm 
-___
-
-* <a href = "https://github.com/TheCaffeineDev/100DaysOfMLCode/tree/master/1.%20Linear%20Regression%20(Day-1)">Day 1 : Linear Regression</a>
-
-* <a href = "https://github.com/TheCaffeineDev/100DaysOfMLCode/tree/master/2.%20Decision%20Tree%20(Day-2)">Day 2 : Decision Tree</a>
-
-* <a href = "https://github.com/TheCaffeineDev/100DaysOfMLCode/tree/master/3.%20Support%20Vector%20Machine%20(Day-3)">Day 3 : Support Vector Machine</a>
-
-* <a href = "https://github.com/TheCaffeineDev/100DaysOfMLCode/tree/master/4.%20Naive%20Bayes%20Algorithm%20(Day-4)">Day 4 : Naive Bayes Classifier</a>
-
-* <a href = "https://github.com/TheCaffeineDev/100DaysOfMLCode/tree/master/5.%20%20K-Nearest%20Neighbor">Day 5 : K-Nearest Neighbor</a>
-
-* <a href = "https://github.com/TheCaffeineDev/100DaysOfMLCode/tree/master/6.%20Random%20Forest%20Algorithm%20(Day%20-6)">Day 6 : Random Forest Algorithm</a>
-
-* <a href = "https://github.com/TheCaffeineDev/100DaysOfMLCode/tree/master/7.%20K-means%20Clustering%20(Day-7)">Day 7 : K-means Clustering</a>
-
-* <a href = "https://github.com/TheCaffeineDev/100DaysOfMLCode/tree/master/8.%20Dimensionality%20Reduction%20Algorithm%20(Day%20-8)">Day 8 : Dimensionality Reduction Algorithm :PCA</a>
-
-* <a href = "https://github.com/TheCaffeineDev/100DaysOfMLCode/tree/master/9.%20Gradient%20Boosting%20Algorithm%20(Day-9)">Day 9 : Gradient Boosting Algorithm</a>
-
-* <a href = "https://github.com/TheCaffeineDev/100DaysOfMLCode/tree/master/10.%20Logistic%20Regression%20(Day-10)">Day 10 : Logistic Regression</a>
-
-* <a href = "https://github.com/TheCaffeineDev/100DaysOfMLCode/tree/master/11.%20Neural%20Network%20From%20%20Scratch%20(Day-11)">Day 11 : Neural Network From Scratch</a>
-
-* <a href = "https://github.com/TheCaffeineDev/100DaysOfMLCode/tree/master/12.%20Backpropagation%20Algorithm%20Neural%20Network%20(Day-12)">Day 12 : Backpropagation Algorithm Implementation</a>
-
-* <a href = "https://github.com/TheCaffeineDev/100DaysOfMLCode/tree/master/13.%20NLP">Day 13 : Getting Started With NLP</a>
-
-* <a href = "https://github.com/TheCaffeineDev/100DaysOfMLCode/tree/master/14.%20NlP%20-Part%202">Day 14 : Getting Started With NLP :Part 2</a>
-
-* <a href = "https://github.com/TheCaffeineDev/100DaysOfMLCode/tree/master/15.%20NLP-%20Part%203%20(Sentiment%20Analysis)">Day 15 :Sentiment Analysis Using NLTK (NLP :Part 3 ) </a>
-
-* <a href = "https://github.com/TheCaffeineDev/100DaysOfMLCode/tree/master/16.%20NLP%20-Part%204%20(Sentiment%20Analysis)">Day 16 :Sentiment Analysis Yelp Dataset (NLP :Part 4 ) </a>
-
-* <a href = "https://github.com/TheCaffeineDev/100DaysOfMLCode/tree/master/17.%20NLP%20-Part%205%20(Sentiment%20Analysis)">Day 17 :Sentiment Analysis IMDB Dataset (NLP :Part 5 ) </a>
-
-* <a href = "https://github.com/TheCaffeineDev/100DaysOfMLCode/tree/master/18.%20NLP%20-Part%206%20(Naive%20Bayes%20Classification)">Day 18 :Naive Bayes Classifier:Email Spam Or Not Spam (NLP :Part 6 ) </a>
-
-* <a href = "https://github.com/TheCaffeineDev/100DaysOfMLCode/tree/master/19.%20NLP%20-Part%207%20(Text%20Clasification-TextBlob)">Day 19 :Text Classification-TextBlob (NLP :Part 7 ) </a>
+# Day 1-10 :Warming Up ML Algorithm 
+# Day 10-20 : NLP
 
 ___
-# Hello Tensorflow 
+# Day 20-30 : ML In Tensorflow Way
 
-* <a href = "https://github.com/TheCaffeineDev/100DaysOfMLCode/tree/master/20.%20Hello%20Tensorflow%20(Tensorflow%20Basics)">Day 20 :Getting Started With Tensorflow (Basics) </a>
+# Day 30-40 : Kaggle Competitions 
 
-* <a href = "https://github.com/TheCaffeineDev/100DaysOfMLCode/tree/master/21.%20Tensorflow-Linear%20(Part-2)">Day 21 :Tensorflow Liner Part:2 </a>
+------
 
-* <a href = "https://github.com/TheCaffeineDev/100DaysOfMLCode/tree/master/22.%20Tensorflow%20Linear%20(Part-3)">Day 22 :Tensorflow Liner Part:3 </a>
+# Day 40-50 : Deep Learning For NLP
 
-* <a href = "https://github.com/TheCaffeineDev/100DaysOfMLCode/tree/master/23.%20Tensorflow%20Basics-Activation%20Functions%20(Day-23)">Day 23 :Tensorflow Basics-Activation Functions </a>
+------
 
-* <a href = "https://github.com/TheCaffeineDev/100DaysOfMLCode/tree/master/24.%20Linear%20Regression%20In%20Tensorflow%20Way">Day 24 :Linear Regression In Tensorflow Way </a>
+# Day 50-60 : Playing Around With PyTorch
 
-* <a href = "https://github.com/TheCaffeineDev/100DaysOfMLCode/tree/master/25.%20SVM%20In%20Tensorflow%20Way">Day 25 :SVM In Tensorflow Way </a>
+------
 
-* [Day 26:Nearest Neighbor Method Using Tensorflow ](https://github.com/TheCaffeineDev/100DaysOfMLCode/tree/master/26.%20Nearest%20Neighbor%20Methods)
+# Day 60-70 : GAN With PyTorch
 
-* [Day 27:Neural Networks In Tensorflow Way ](https://github.com/TheCaffeineDev/100DaysOfMLCode/tree/master/27.%20Neural%20Networks%20In%20Tensorflow%20Way)
+------
 
-* [Day 28:NLP In Tensorflow Way (Part-1) ](https://github.com/TheCaffeineDev/100DaysOfMLCode/tree/master/28.%20NLP%20In%20Tensorflow%20Way%20(Part-1))
+# Day 70-80 : Getting started with RL & Working With Deep NLP 
 
-* [Day 29:NLP In Tensorflow Way (Part-2) ](https://github.com/TheCaffeineDev/100DaysOfMLCode/tree/master/29.%20NLP%20In%20Tensorflow%20Way%20(Part-2))
+------
 
-* [Day 30:Santander Value Prediction (Kaggle Competition)](https://github.com/TheCaffeineDev/100DaysOfMLCode/tree/master/30.%20Santander%20Value%20Prediction%20(Kaggle%20Competition))
+# Day 80-90 : Deep NLP , Autoencoders , RBM 
 
-* [Day 31:RNN Implementation Using Numpy](https://github.com/TheCaffeineDev/100DaysOfMLCode/tree/master/31.%20RNN%20Implementation%20Using%20Numpy)
+------
 
-* [Day 32:LSTM Implementation](https://github.com/TheCaffeineDev/100DaysOfMLCode/tree/master/32.%20LSTM%20Implementation)
-
-
-* [Day 33:RNN-LSTM Implementation using Tensorflow](https://github.com/TheCaffeineDev/100DaysOfMLCode/tree/master/33.%20RNN-LSTM%20Implementation%20using%20Tensorflow)
-
-* [Day 34:Retail Price Recommendation (Kaggle)](https://github.com/TheCaffeineDev/100DaysOfMLCode/tree/master/34.%20Retail%20Price%20Recommendation%20(Kaggle))
+# Day 90-100 : ML & DL Models In Production
