@@ -2,11 +2,11 @@
 Taking up the #100DaysOfMLCode Challange 
 
 # Day 1-10 :Warming Up ML Algorithm 
+___
 # Day 10-20 : NLP
-
 ___
 # Day 20-30 : ML In Tensorflow Way
-
+___
 # Day 30-40 : Kaggle Competitions 
 
 ------
