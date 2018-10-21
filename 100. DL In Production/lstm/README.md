@@ -43,6 +43,6 @@
 
 `kubectl --kubeconfig ~/kubernetes/admin.conf create -f service.yaml`
 
-### deployment local
+#### deployment local
 
 `kubectl --kubeconfig ~/kubernetes/admin.conf apply -f deployment.yaml`
