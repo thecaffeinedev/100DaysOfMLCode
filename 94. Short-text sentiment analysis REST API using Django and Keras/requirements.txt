@@ -27,7 +27,7 @@ protobuf==3.5.2.post1
 ptyprocess==0.5.2
 Pygments==2.2.0
 pytz==2018.4
-PyYAML==3.12
+PyYAML
 scikit-learn==0.19.1
 scipy==1.1.0
 simplegeneric==0.8.1
