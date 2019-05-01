@@ -6,6 +6,6 @@ Jinja2
 MarkupSafe==1.0
 urllib3
 Werkzeug==0.13
-tensorflow==1.8.0
+tensorflow
 keras==2.1.6
 numpy==1.14.1
