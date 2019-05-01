@@ -33,7 +33,7 @@ scipy==1.1.0
 simplegeneric==0.8.1
 six==1.11.0
 tensorboard==1.8.0
-tensorflow==1.8.0
+tensorflow
 termcolor==1.1.0
 traitlets==4.3.2
 wcwidth==0.1.7
