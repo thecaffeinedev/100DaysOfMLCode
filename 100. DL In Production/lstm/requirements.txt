@@ -1,5 +1,5 @@
 Flask==0.12
-tensorflow==1.10
+tensorflow
 keras
 matplotlib
 numpy==1.14.5
