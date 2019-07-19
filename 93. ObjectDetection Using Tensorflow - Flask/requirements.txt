@@ -5,7 +5,7 @@ click==6.7
 cycler==0.10.0
 decorator==4.1.2
 entrypoints==0.2.3
-Flask==0.12.2
+Flask==1.0
 html5lib==0.9999999
 ipykernel==4.6.1
 ipython==6.1.0
