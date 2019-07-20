@@ -1,5 +1,5 @@
 click==6.7
-Flask==0.12.2
+Flask
 gunicorn==19.7.1
 itsdangerous==0.24
 Jinja2
