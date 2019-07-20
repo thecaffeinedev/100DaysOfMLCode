@@ -1,4 +1,4 @@
-Flask==0.12
+Flask
 tensorflow
 keras
 matplotlib
