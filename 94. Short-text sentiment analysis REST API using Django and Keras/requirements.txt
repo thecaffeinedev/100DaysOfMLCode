@@ -17,7 +17,7 @@ Keras==2.2.0
 Keras-Applications==1.0.2
 Keras-Preprocessing==1.0.1
 Markdown==2.6.11
-nltk==3.3
+nltk==3.4.5
 numpy==1.14.4
 parso
 pexpect==4.6.0
